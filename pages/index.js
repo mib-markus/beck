@@ -1,112 +1,78 @@
-import Head from "next/head";
-import stylesheet from "styles/main.scss";
+import PropTypes from "prop-types";
 
-import Header from "../components/Header";
-import Main from "../components/Main";
-import Footer from "../components/Footer";
+import Imprint from "../components/articles/Imprint";
+import Work from "../components/articles/Work";
+import Intro from "../components/articles/Intro";
+import Contact from "../components/articles/Contact";
 
 class IndexPage extends React.Component {
-  constructor(props) {
-    super(props);
-    this.state = {
-      isArticleVisible: false,
-      timeout: false,
-      articleTimeout: false,
-      article: "",
-      loading: "is-loading"
-    };
-    this.handleOpenArticle = this.handleOpenArticle.bind(this);
-    this.handleCloseArticle = this.handleCloseArticle.bind(this);
-  }
-
-  componentDidMount() {
-    this.timeoutId = setTimeout(() => {
-      this.setState({ loading: "" });
-    }, 100);
-  }
-
-  componentWillUnmount() {
-    if (this.timeoutId) {
-      clearTimeout(this.timeoutId);
-    }
-  }
-
-  handleOpenArticle(article) {
-    this.setState({
-      isArticleVisible: !this.state.isArticleVisible,
-      article
-    });
-
-    setTimeout(() => {
-      this.setState({
-        timeout: !this.state.timeout
-      });
-    }, 325);
-
-    setTimeout(() => {
-      this.setState({
-        articleTimeout: !this.state.articleTimeout
-      });
-    }, 350);
-  }
-
-  handleCloseArticle() {
-    this.setState({
-      articleTimeout: !this.state.articleTimeout
-    });
-
-    setTimeout(() => {
-      this.setState({
-        timeout: !this.state.timeout
-      });
-    }, 325);
-
-    setTimeout(() => {
-      this.setState({
-        isArticleVisible: !this.state.isArticleVisible,
-        article: ""
-      });
-    }, 350);
-  }
   render() {
+    let close = (
+      <div
+        className="close"
+        onClick={() => {
+          this.props.onCloseArticle();
+        }}
+      ></div>
+    );
+
     return (
       <div
-        className={`body ${this.state.loading} ${
-          this.state.isArticleVisible ? "is-article-visible" : ""
-        }`}
+        id="main"
+        style={this.props.timeout ? { display: "flex" } : { display: "none" }}
       >
-        <div>
-          <Head>
-            <title>mib-markus</title>
-            <link rel="shortcut icon" href="/static/favicon.ico" />
-            <link
-              href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,600,600i"
-              rel="stylesheet"
-            />
-          </Head>
+        <article
+          id="intro"
+          className={`${this.props.article === "intro" ? "active" : ""} ${
+            this.props.articleTimeout ? "timeout" : ""
+          }`}
+          style={{ display: "none" }}
+        >
+          <Intro />
+          {close}
+        </article>
 
-          <style dangerouslySetInnerHTML={{ __html: stylesheet }} />
+        <article
+          id="work"
+          className={`${this.props.article === "work" ? "active" : ""} ${
+            this.props.articleTimeout ? "timeout" : ""
+          }`}
+          style={{ display: "none" }}
+        >
+          <Work />
+          {close}
+        </article>
 
-          <div id="wrapper">
-            <Header
-              onOpenArticle={this.handleOpenArticle}
-              timeout={this.state.timeout}
-            />
-            <Main
-              isArticleVisible={this.state.isArticleVisible}
-              timeout={this.state.timeout}
-              articleTimeout={this.state.articleTimeout}
-              article={this.state.article}
-              onCloseArticle={this.handleCloseArticle}
-            />
-            <Footer timeout={this.state.timeout} />
-          </div>
-
-          <div id="bg" />
-        </div>
+        <article
+          id="about"
+          className={`${this.props.article === "about" ? "active" : ""} ${
+            this.props.articleTimeout ? "timeout" : ""
+          }`}
+          style={{ display: "none" }}
+        >
+          <Imprint />
+          {close}
+        </article>
+        <article
+          id="contact"
+          className={`${this.props.article === "contact" ? "active" : ""} ${
+            this.props.articleTimeout ? "timeout" : ""
+          }`}
+          style={{ display: "none" }}
+        >
+          {close}
+        </article>
       </div>
     );
   }
 }
+
+IndexPage.propTypes = {
+  route: PropTypes.object,
+  article: PropTypes.string,
+  articleTimeout: PropTypes.bool,
+  onCloseArticle: PropTypes.func,
+  timeout: PropTypes.bool
+};
 
 export default IndexPage;
