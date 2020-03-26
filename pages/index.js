@@ -60,6 +60,7 @@ class IndexPage extends React.Component {
           }`}
           style={{ display: "none" }}
         >
+          <Contact />
           {close}
         </article>
       </div>
