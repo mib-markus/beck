@@ -1,5 +1,4 @@
 import PropTypes from "prop-types";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import Link from "next/link";
 
 const Header = props => (
@@ -9,7 +8,6 @@ const Header = props => (
         className="logo"
         src="/static/images/LogoMakr_9xm1vx.png"
         alt=""
-        style={{ borderRadius: "50%", size: "50%" }}
       />
     </Link>
     <div className="content">
@@ -32,7 +30,7 @@ const Header = props => (
       <ul>
         <li>
           <a
-            href="javascript:;"
+            href="intro"
             onClick={() => {
               props.onOpenArticle("intro");
             }}
@@ -42,7 +40,7 @@ const Header = props => (
         </li>
         <li>
           <a
-            href="javascript:;"
+            href="work"
             onClick={() => {
               props.onOpenArticle("work");
             }}
@@ -52,7 +50,7 @@ const Header = props => (
         </li>
         <li>
           <a
-            href="javascript:;"
+            href="about"
             onClick={() => {
               props.onOpenArticle("about");
             }}
@@ -62,7 +60,7 @@ const Header = props => (
         </li>
         <li>
           <a
-            href="javascript:;"
+            href="contact"
             onClick={() => {
               props.onOpenArticle("contact");
             }}
