@@ -17,9 +17,18 @@ export default function Intro() {
         <strong>How do you maintaine your work-life balance?</strong>
         <br />I love to play table tennis and take pictures.
       </p>
-      By the way, check out my <a href="#">awesome pics</a>.<p></p>
+      By the way, check out my awesome photos.<p></p>
       <span className="image main">
         <img src="/static/images/pic01.jpg" alt="" />
+      </span>
+      <span className="image main">
+        <img src="/static/images/bee.jpg" alt="" />
+      </span>
+      <span className="image main">
+        <img src="/static/images/winter.jpg" alt="" />
+      </span>
+      <span className="image main">
+        <img src="/static/images/bg2.jpg" alt="" />
       </span>
     </div>
   );
