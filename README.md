@@ -24,8 +24,9 @@ yarn create next-app
 Download the example:
 
 ```bash
-curl https://codeload.github.com/zeit/next.js/tar.gz/canary | tar -xz --strip=2 next.js-canary/examples/with-graphql-faunadb
-cd with-graphql-faunadb
+curl https://codeload.github.com/zeit/next.js/tar.gz/canary | tar -xz --strip=2 next.js-canary/examples/
+your example
+cd your example
 ```
 
 ### Run locally
