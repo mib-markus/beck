@@ -6,6 +6,10 @@ export default function Work() {
       <h2 className="major">Work</h2>
       <p>
         <p>
+          I was born 1989 in a small city near Munich - Germany and working as a
+          programmer since 2012.
+        </p>
+        <p>
           <strong>To reach your goals and wishes in life, i believe:</strong>
         </p>
         You are your greatest enemy, and you should always aim to be a better

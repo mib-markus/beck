@@ -4,16 +4,16 @@ export default function Imprint() {
       <h2 className="major">Impressum</h2>
       <p class="adsimple-321164724">Informationspflicht laut § 5 TMG.</p>
       <p class="adsimple-321164724">
-        Markus Beck GbR
+        Markus Beck
         <br />
-        Schliemannweg 24, <br />
-        80937 München, <br />
+        Schliemannweg 24<br />
+        80937 München<br />
         Deutschland
       </p>
       <p class="adsimple-321164724"></p>
       <p class="adsimple-321164724">
-        <strong>E-Mail:</strong>{" "}
-        <a href="mailto:markus.i.beck@outlook.de">markus.i.beck@outlook.de</a>
+        <a href="https://de.linkedin.com/in/markus-beck?trk=people-guest_people_search-card">
+        <strong>Contact me</strong></a>
       </p>
       <p class="adsimple-321164724">
         <strong>Berufsbezeichnung:</strong> Cloud Solution Architekt

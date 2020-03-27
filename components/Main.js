@@ -1,6 +1,4 @@
 import PropTypes from "prop-types";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faGithub } from "@fortawesome/free-brands-svg-icons";
 import Imprint from "./articles/Imprint";
 import Intro from "./articles/Intro";
 import Work from "./articles/Work";
