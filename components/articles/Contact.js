@@ -1,7 +1,18 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import React from "react";
+// import { loadCSS } from "fg-loadcss";
 import { faGithub } from "@fortawesome/free-brands-svg-icons";
+import { faLinkedin } from "@fortawesome/free-brands-svg-icons";
+// import Icon from "@material-ui/core/Icon";
 
 export default function Intro() {
+//   React.useEffect(() => {
+//     loadCSS(
+//       "https://use.fontawesome.com/releases/v5.12.0/css/all.css",
+//       document.querySelector("#font-awesome-css")
+//     );
+//   }, []);
+
   return (
     <div>
       <h2 className="major">Contact</h2>
@@ -29,7 +40,14 @@ export default function Intro() {
       </form>
       <ul className="icons">
         <li>
+          <a href="https://de.linkedin.com/in/markus-beck?trk=people-guest_people_search-card">
+            {/* <Icon className="fab fa-linkedin" style={{ fontSize: 38 }} /> */}
+            <FontAwesomeIcon icon={faLinkedin} />
+          </a>
+        </li>
+        <li>
           <a href="https://github.com/mib-markus">
+          {/* <Icon className="fab fa-github" style={{ fontSize: 38 }} /> */}
             <FontAwesomeIcon icon={faGithub} />
           </a>
         </li>
