@@ -1,8 +1,7 @@
 const path = require("path");
 const glob = require("glob");
 const debug = process.env.NODE_ENV !== "production";
-// const withPlugins = require('next-compose-plugins');
-const optimizedImages = require("next-optimized-images");
+const withOptimizedImages = require('next-optimized-images');
 
 module.exports = withOptimizedImages({
   exportPathMap: function() {
