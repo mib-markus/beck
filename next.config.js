@@ -2,7 +2,8 @@ const path = require('path')
 const glob = require('glob')
 const debug = process.env.NODE_ENV !== "production";
 
-module.exports = {
+module.exports = withOptimizedImages(
+  {
   exportPathMap: function () {
     return {
       "/": { page: "/" },
