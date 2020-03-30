@@ -128,7 +128,7 @@ var Header = function Header(props) {
     }
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "logo",
-    src: "/static/images/LogoMakr_9xm1vx.png",
+    src: "/public/static/images/LogoMakr_9xm1vx.png",
     alt: "",
     __self: _this,
     __source: {
@@ -611,7 +611,7 @@ function Contact() {
       columnNumber: 7
     }
   }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("img", {
-    src: "/static/images/LogoMakr_9xm1vx.png",
+    src: "/public/static/images/LogoMakr_9xm1vx.png",
     alt: "",
     __self: this,
     __source: {
@@ -818,7 +818,7 @@ function Imprint() {
       columnNumber: 7
     }
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "/static/images/pic03.jpg",
+    src: "/public/static/images/pic03.jpg",
     alt: "",
     __self: this,
     __source: {
@@ -2692,7 +2692,7 @@ function Intro() {
       columnNumber: 7
     }
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "/static/images/pic01.jpg",
+    src: "/public/static/images/pic01.jpg",
     alt: "",
     __self: this,
     __source: {
@@ -2709,7 +2709,7 @@ function Intro() {
       columnNumber: 7
     }
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "/static/images/bee.jpg",
+    src: "/public/static/images/bee.jpg",
     alt: "",
     __self: this,
     __source: {
@@ -2726,7 +2726,7 @@ function Intro() {
       columnNumber: 7
     }
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "/static/images/winter.jpg",
+    src: "/public/static/images/winter.jpg",
     alt: "",
     __self: this,
     __source: {
@@ -2743,7 +2743,7 @@ function Intro() {
       columnNumber: 7
     }
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "/static/images/bg2.jpg",
+    src: "/public/static/images/bg2.jpg",
     alt: "",
     __self: this,
     __source: {
@@ -2861,7 +2861,7 @@ function Work() {
       columnNumber: 7
     }
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "/static/images/pic02.jpg",
+    src: "/public/static/images/pic02.jpg",
     alt: "",
     __self: this,
     __source: {
