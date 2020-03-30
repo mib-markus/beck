@@ -1,7 +1,16 @@
 const path = require('path')
 const glob = require('glob')
+const debug = process.env.NODE_ENV !== "production";
 
 module.exports = {
+  exportPathMap: function () {
+    return {
+      "/": { page: "/" },
+      // "/about": { page: "/about" },
+    }
+  },
+    //assetPrefix: '',
+    assetPrefix: !debug ? '/beck/' : '',
   webpack: (config, { dev }) => {
     config.module.rules.push(
       {
@@ -31,10 +40,5 @@ module.exports = {
       }
     )
     return config
-  },
-  exportPathMap: function(defaultPathMap) {
-    return {
-      '/': { page: '/' }
-    }
   }
 }
