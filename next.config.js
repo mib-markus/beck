@@ -4,6 +4,23 @@ const debug = process.env.NODE_ENV !== "production";
 const withOptimizedImages = require('next-optimized-images');
 
 module.exports = withOptimizedImages({
+  inlineImageLimit: 8192,
+  imagesFolder: 'images',
+  imagesName: '[name]-[hash].[ext]',
+  handleImages: ['jpeg', 'png'],
+  optimizeImages: true,
+  optimizeImagesInDev: false,
+  mozjpeg: {
+    quality: 80,
+  },
+  optipng: {
+    optimizationLevel: 3,
+  },
+  pngquant: false,
+  gifsicle: {
+    interlaced: true,
+    optimizationLevel: 3,
+  },
   exportPathMap: function() {
     return {
       "/": { page: "/" }
