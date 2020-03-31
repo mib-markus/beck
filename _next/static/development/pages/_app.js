@@ -22,7 +22,7 @@ var _this = undefined,
 
 
 var Footer = function Footer(props) {
-  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("footer", {
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("footer", {
     id: "footer",
     style: props.timeout ? {
       display: "none"
@@ -33,7 +33,7 @@ var Footer = function Footer(props) {
       lineNumber: 4,
       columnNumber: 3
     }
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "copyright",
     __self: _this,
     __source: {
@@ -41,7 +41,7 @@ var Footer = function Footer(props) {
       lineNumber: 5,
       columnNumber: 5
     }
-  }, "\xA9 mib-markus - ", new Date().getFullYear(), ". Built with:", " ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+  }, "\xA9 mib-markus - ", new Date().getFullYear(), ". Built with:", " ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     href: "https://github.com/zeit/next.js",
     __self: _this,
     __source: {
@@ -49,14 +49,14 @@ var Footer = function Footer(props) {
       lineNumber: 7,
       columnNumber: 7
     }
-  }, "Next.js"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+  }, "Next.js"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 8,
       columnNumber: 7
     }
-  }), "Designed by: ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+  }), "Designed by: ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     href: "https://html5up.net",
     __self: _this,
     __source: {
@@ -64,7 +64,7 @@ var Footer = function Footer(props) {
       lineNumber: 9,
       columnNumber: 20
     }
-  }, "HTML5 UP"), " and released for free under the ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+  }, "HTML5 UP"), " and released for free under the ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     href: "https://html5up.net/license",
     __self: _this,
     __source: {
@@ -107,7 +107,7 @@ var _this = undefined,
 
 
 var Header = function Header(props) {
-  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("header", {
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("header", {
     id: "header",
     style: props.timeout ? {
       display: "none"
@@ -118,7 +118,7 @@ var Header = function Header(props) {
       lineNumber: 5,
       columnNumber: 3
     }
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_2___default.a, {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_2___default.a, {
     href: "https://github.com/mib-markus",
     __self: _this,
     __source: {
@@ -126,7 +126,7 @@ var Header = function Header(props) {
       lineNumber: 6,
       columnNumber: 5
     }
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "logo",
     src: "/static/images/LogoMakr_9xm1vx.png",
     alt: "",
@@ -136,7 +136,7 @@ var Header = function Header(props) {
       lineNumber: 7,
       columnNumber: 7
     }
-  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "content",
     __self: _this,
     __source: {
@@ -144,7 +144,7 @@ var Header = function Header(props) {
       lineNumber: 13,
       columnNumber: 5
     }
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "inner",
     __self: _this,
     __source: {
@@ -152,98 +152,98 @@ var Header = function Header(props) {
       lineNumber: 14,
       columnNumber: 7
     }
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 15,
       columnNumber: 9
     }
-  }, "Markus Beck"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+  }, "Markus Beck"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 16,
       columnNumber: 9
     }
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 17,
       columnNumber: 9
     }
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 18,
       columnNumber: 9
     }
-  }, "Consulting for Event Storming & ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+  }, "Consulting for Event Storming & ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 19,
       columnNumber: 43
     }
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 20,
       columnNumber: 11
     }
-  }), "Designing Event Streaming Systems.", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+  }), "Designing Event Streaming Systems.", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 22,
       columnNumber: 11
     }
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 23,
       columnNumber: 11
     }
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 24,
       columnNumber: 11
     }
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 25,
       columnNumber: 11
     }
-  }), "I \u2764 coding as a Cloud Solution Architect."))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("nav", {
+  }), "I \u2764 coding as a Cloud Solution Architect."))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("nav", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 29,
       columnNumber: 5
     }
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 30,
       columnNumber: 7
     }
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 31,
       columnNumber: 9
     }
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     href: "#intro",
     onClick: function onClick() {
       props.onOpenArticle("intro");
@@ -254,14 +254,14 @@ var Header = function Header(props) {
       lineNumber: 32,
       columnNumber: 11
     }
-  }, "Intro")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+  }, "Intro")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 41,
       columnNumber: 9
     }
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     href: "#work",
     onClick: function onClick() {
       props.onOpenArticle("work");
@@ -272,14 +272,14 @@ var Header = function Header(props) {
       lineNumber: 42,
       columnNumber: 11
     }
-  }, "Work")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+  }, "Work")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 51,
       columnNumber: 9
     }
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     href: "#about",
     onClick: function onClick() {
       props.onOpenArticle("about");
@@ -290,14 +290,14 @@ var Header = function Header(props) {
       lineNumber: 52,
       columnNumber: 11
     }
-  }, "About")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+  }, "About")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 61,
       columnNumber: 9
     }
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     href: "#contact",
     onClick: function onClick() {
       props.onOpenArticle("contact");
@@ -385,7 +385,7 @@ var Main = /*#__PURE__*/function (_React$Component) {
     value: function render() {
       var _this = this;
 
-      var close = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      var close = /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "close",
         onClick: function onClick() {
           _this.props.onCloseArticle();
@@ -397,7 +397,7 @@ var Main = /*#__PURE__*/function (_React$Component) {
           columnNumber: 7
         }
       });
-      return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         id: "main",
         style: this.props.timeout ? {
           display: "flex"
@@ -410,7 +410,7 @@ var Main = /*#__PURE__*/function (_React$Component) {
           lineNumber: 19,
           columnNumber: 7
         }
-      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("article", {
+      }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("article", {
         id: "intro",
         className: "".concat(this.props.article === "intro" ? "active" : "", " ").concat(this.props.articleTimeout ? "timeout" : ""),
         style: {
@@ -422,14 +422,14 @@ var Main = /*#__PURE__*/function (_React$Component) {
           lineNumber: 23,
           columnNumber: 9
         }
-      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_articles_Intro__WEBPACK_IMPORTED_MODULE_3__["default"], {
+      }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_articles_Intro__WEBPACK_IMPORTED_MODULE_3__["default"], {
         __self: this,
         __source: {
           fileName: _jsxFileName,
           lineNumber: 30,
           columnNumber: 11
         }
-      }), close), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("article", {
+      }), close), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("article", {
         id: "work",
         className: "".concat(this.props.article === "work" ? "active" : "", " ").concat(this.props.articleTimeout ? "timeout" : ""),
         style: {
@@ -441,14 +441,14 @@ var Main = /*#__PURE__*/function (_React$Component) {
           lineNumber: 34,
           columnNumber: 9
         }
-      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_articles_Work__WEBPACK_IMPORTED_MODULE_4__["default"], {
+      }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_articles_Work__WEBPACK_IMPORTED_MODULE_4__["default"], {
         __self: this,
         __source: {
           fileName: _jsxFileName,
           lineNumber: 41,
           columnNumber: 11
         }
-      }), close), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("article", {
+      }), close), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("article", {
         id: "about",
         className: "".concat(this.props.article === "about" ? "active" : "", " ").concat(this.props.articleTimeout ? "timeout" : ""),
         style: {
@@ -460,14 +460,14 @@ var Main = /*#__PURE__*/function (_React$Component) {
           lineNumber: 45,
           columnNumber: 9
         }
-      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_articles_Imprint__WEBPACK_IMPORTED_MODULE_2__["default"], {
+      }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_articles_Imprint__WEBPACK_IMPORTED_MODULE_2__["default"], {
         __self: this,
         __source: {
           fileName: _jsxFileName,
           lineNumber: 52,
           columnNumber: 11
         }
-      }), close), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("article", {
+      }), close), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("article", {
         id: "contact",
         className: "".concat(this.props.article === "contact" ? "active" : "", " ").concat(this.props.articleTimeout ? "timeout" : ""),
         style: {
@@ -479,7 +479,7 @@ var Main = /*#__PURE__*/function (_React$Component) {
           lineNumber: 55,
           columnNumber: 9
         }
-      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_articles_Contact__WEBPACK_IMPORTED_MODULE_5__["default"], {
+      }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_articles_Contact__WEBPACK_IMPORTED_MODULE_5__["default"], {
         __self: this,
         __source: {
           fileName: _jsxFileName,
@@ -526,14 +526,14 @@ var _jsxFileName = "/home/markus/projects/beck/components/articles/Contact.js";
 
 
 function Contact() {
-  return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 8,
       columnNumber: 5
     }
-  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("h2", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("h2", {
     className: "major",
     __self: this,
     __source: {
@@ -541,14 +541,14 @@ function Contact() {
       lineNumber: 9,
       columnNumber: 7
     }
-  }, "Contact"), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("p", {
+  }, "Contact"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 10,
       columnNumber: 7
     }
-  }, "Contact me over following platforms:"), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("ul", {
+  }, "Contact me over following platforms:"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("ul", {
     className: "icons",
     __self: this,
     __source: {
@@ -556,14 +556,14 @@ function Contact() {
       lineNumber: 11,
       columnNumber: 7
     }
-  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("li", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("li", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 12,
       columnNumber: 9
     }
-  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
     href: "https://de.linkedin.com/in/markus-beck?trk=people-guest_people_search-card",
     __self: this,
     __source: {
@@ -571,7 +571,7 @@ function Contact() {
       lineNumber: 13,
       columnNumber: 11
     }
-  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_fortawesome_react_fontawesome__WEBPACK_IMPORTED_MODULE_0__["FontAwesomeIcon"], {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_fortawesome_react_fontawesome__WEBPACK_IMPORTED_MODULE_0__["FontAwesomeIcon"], {
     icon: _fortawesome_free_brands_svg_icons__WEBPACK_IMPORTED_MODULE_2__["faLinkedin"],
     __self: this,
     __source: {
@@ -579,14 +579,14 @@ function Contact() {
       lineNumber: 14,
       columnNumber: 13
     }
-  }))), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("li", {
+  }))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("li", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 17,
       columnNumber: 9
     }
-  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
     href: "https://github.com/mib-markus",
     __self: this,
     __source: {
@@ -594,7 +594,7 @@ function Contact() {
       lineNumber: 18,
       columnNumber: 11
     }
-  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_fortawesome_react_fontawesome__WEBPACK_IMPORTED_MODULE_0__["FontAwesomeIcon"], {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_fortawesome_react_fontawesome__WEBPACK_IMPORTED_MODULE_0__["FontAwesomeIcon"], {
     icon: _fortawesome_free_brands_svg_icons__WEBPACK_IMPORTED_MODULE_2__["faGithub"],
     __self: this,
     __source: {
@@ -602,7 +602,7 @@ function Contact() {
       lineNumber: 19,
       columnNumber: 13
     }
-  })))), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("span", {
+  })))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("span", {
     className: "image main",
     __self: this,
     __source: {
@@ -610,7 +610,7 @@ function Contact() {
       lineNumber: 23,
       columnNumber: 7
     }
-  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("img", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("img", {
     src: "/static/images/LogoMakr_9xm1vx.png",
     alt: "",
     __self: this,
@@ -619,7 +619,7 @@ function Contact() {
       lineNumber: 24,
       columnNumber: 9
     }
-  }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("p", {
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("p", {
     className: "copyright",
     __self: this,
     __source: {
@@ -654,14 +654,14 @@ function _defineProperty(obj, key, value) { if (key in obj) { Object.definePrope
 function Imprint() {
   var _React$createElement;
 
-  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 3,
       columnNumber: 5
     }
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "major",
     __self: this,
     __source: {
@@ -669,7 +669,7 @@ function Imprint() {
       lineNumber: 4,
       columnNumber: 7
     }
-  }, "Impressum"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Impressum"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -677,7 +677,7 @@ function Imprint() {
       lineNumber: 5,
       columnNumber: 7
     }
-  }, "Informationspflicht laut \xA7 5 TMG."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Informationspflicht laut \xA7 5 TMG."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -685,28 +685,28 @@ function Imprint() {
       lineNumber: 6,
       columnNumber: 7
     }
-  }, "Markus Beck", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+  }, "Markus Beck", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 8,
       columnNumber: 9
     }
-  }), "Schliemannweg 24", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+  }), "Schliemannweg 24", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 9,
       columnNumber: 25
     }
-  }), "80937 M\xFCnchen", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+  }), "80937 M\xFCnchen", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 10,
       columnNumber: 22
     }
-  }), "Deutschland"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }), "Deutschland"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -714,7 +714,7 @@ function Imprint() {
       lineNumber: 13,
       columnNumber: 7
     }
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -722,7 +722,7 @@ function Imprint() {
       lineNumber: 14,
       columnNumber: 7
     }
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     href: "https://de.linkedin.com/in/markus-beck?trk=people-guest_people_search-card",
     __self: this,
     __source: {
@@ -730,14 +730,14 @@ function Imprint() {
       lineNumber: 15,
       columnNumber: 9
     }
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 16,
       columnNumber: 9
     }
-  }, "Contact me"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Contact me"))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -745,14 +745,14 @@ function Imprint() {
       lineNumber: 18,
       columnNumber: 7
     }
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 19,
       columnNumber: 9
     }
-  }, "Berufsbezeichnung:"), " Cloud Solution Architekt"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Berufsbezeichnung:"), " Cloud Solution Architekt"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -760,21 +760,21 @@ function Imprint() {
       lineNumber: 21,
       columnNumber: 7
     }
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 22,
       columnNumber: 9
     }
-  }, "Vertreten durch die Gesellschafter"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+  }, "Vertreten durch die Gesellschafter"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 23,
       columnNumber: 9
     }
-  }), "Markus Beck"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }), "Markus Beck"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     style: {
       marginTop: "15px"
     },
@@ -784,7 +784,7 @@ function Imprint() {
       lineNumber: 26,
       columnNumber: 7
     }
-  }, "Quelle: Erstellt\xA0mit dem", " ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+  }, "Quelle: Erstellt\xA0mit dem", " ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     title: "Impressum Generator Deutschland",
     href: "https://www.adsimple.de/impressum-generator/",
     target: "_blank",
@@ -798,7 +798,7 @@ function Imprint() {
       lineNumber: 28,
       columnNumber: 9
     }
-  }, "Impressum Generator"), " ", "von AdSimple\xA0in Kooperation mit", " ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+  }, "Impressum Generator"), " ", "von AdSimple\xA0in Kooperation mit", " ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     href: "https://www.bauenwir.de",
     target: "_blank",
     rel: "follow",
@@ -809,7 +809,7 @@ function Imprint() {
       lineNumber: 38,
       columnNumber: 9
     }
-  }, "bauenwir.de")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
+  }, "bauenwir.de")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "image main",
     __self: this,
     __source: {
@@ -817,7 +817,7 @@ function Imprint() {
       lineNumber: 42,
       columnNumber: 7
     }
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     src: "/static/images/pic03.jpg",
     alt: "",
     __self: this,
@@ -826,14 +826,14 @@ function Imprint() {
       lineNumber: 43,
       columnNumber: 9
     }
-  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 45,
       columnNumber: 7
     }
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -841,21 +841,21 @@ function Imprint() {
       lineNumber: 46,
       columnNumber: 9
     }
-  }, "EU-Streitschlichtung"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "EU-Streitschlichtung"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 47,
       columnNumber: 9
     }
-  }, "Gem\xE4\xDF Verordnung \xFCber Online-Streitbeilegung in Verbraucherangelegenheiten (ODR-Verordnung) m\xF6chten wir Sie \xFCber die Online-Streitbeilegungsplattform (OS-Plattform) informieren.", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+  }, "Gem\xE4\xDF Verordnung \xFCber Online-Streitbeilegung in Verbraucherangelegenheiten (ODR-Verordnung) m\xF6chten wir Sie \xFCber die Online-Streitbeilegungsplattform (OS-Plattform) informieren.", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 51,
       columnNumber: 11
     }
-  }), "Verbraucher haben die M\xF6glichkeit, Beschwerden an die Online Streitbeilegungsplattform der Europ\xE4ischen Kommission unter", " ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+  }), "Verbraucher haben die M\xF6glichkeit, Beschwerden an die Online Streitbeilegungsplattform der Europ\xE4ischen Kommission unter", " ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     class: "adsimple-321164724",
     href: "https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home2.show&lng=DE",
     target: "_blank",
@@ -866,14 +866,14 @@ function Imprint() {
       lineNumber: 54,
       columnNumber: 11
     }
-  }, "http://ec.europa.eu/odr?tid=321164724"), " ", "zu richten. Die daf\xFCr notwendigen Kontaktdaten finden Sie oberhalb in unserem Impressum."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "http://ec.europa.eu/odr?tid=321164724"), " ", "zu richten. Die daf\xFCr notwendigen Kontaktdaten finden Sie oberhalb in unserem Impressum."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 65,
       columnNumber: 9
     }
-  }, "Wir m\xF6chten Sie jedoch darauf hinweisen, dass wir nicht bereit oder verpflichtet sind, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
+  }, "Wir m\xF6chten Sie jedoch darauf hinweisen, dass wir nicht bereit oder verpflichtet sind, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -881,14 +881,14 @@ function Imprint() {
       lineNumber: 70,
       columnNumber: 9
     }
-  }, "Haftung f\xFCr Inhalte dieser Website"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Haftung f\xFCr Inhalte dieser Website"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 71,
       columnNumber: 9
     }
-  }, "Wir entwickeln die Inhalte dieser Webseite st\xE4ndig weiter und bem\xFChen uns korrekte und aktuelle Informationen bereitzustellen. Laut Telemediengesetz", " ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+  }, "Wir entwickeln die Inhalte dieser Webseite st\xE4ndig weiter und bem\xFChen uns korrekte und aktuelle Informationen bereitzustellen. Laut Telemediengesetz", " ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     class: "adsimple-321164724",
     href: "https://www.gesetze-im-internet.de/tmg/__7.html?tid=321164724",
     rel: "noopener",
@@ -899,21 +899,21 @@ function Imprint() {
       lineNumber: 75,
       columnNumber: 11
     }
-  }, "(TMG) \xA77 (1)"), " ", "sind wir als Diensteanbieter f\xFCr eigene Informationen, die wir zur Nutzung bereitstellen, nach den allgemeinen Gesetzen verantwortlich. Leider k\xF6nnen wir keine Haftung f\xFCr die Korrektheit aller Inhalte auf dieser Webseite \xFCbernehmen, speziell f\xFCr jene die seitens Dritter bereitgestellt wurden. Als Diensteanbieter im Sinne der \xA7\xA7 8 bis 10 sind wir nicht verpflichtet, die von ihnen \xFCbermittelten oder gespeicherten Informationen zu \xFCberwachen oder nach Umst\xE4nden zu forschen, die auf eine rechtswidrige T\xE4tigkeit hinweisen."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "(TMG) \xA77 (1)"), " ", "sind wir als Diensteanbieter f\xFCr eigene Informationen, die wir zur Nutzung bereitstellen, nach den allgemeinen Gesetzen verantwortlich. Leider k\xF6nnen wir keine Haftung f\xFCr die Korrektheit aller Inhalte auf dieser Webseite \xFCbernehmen, speziell f\xFCr jene die seitens Dritter bereitgestellt wurden. Als Diensteanbieter im Sinne der \xA7\xA7 8 bis 10 sind wir nicht verpflichtet, die von ihnen \xFCbermittelten oder gespeicherten Informationen zu \xFCberwachen oder nach Umst\xE4nden zu forschen, die auf eine rechtswidrige T\xE4tigkeit hinweisen."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 92,
       columnNumber: 9
     }
-  }, "Unsere Verpflichtungen zur Entfernung von Informationen oder zur Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen aufgrund von gerichtlichen oder beh\xF6rdlichen Anordnungen bleiben auch im Falle unserer Nichtverantwortlichkeit nach den \xA7\xA7 8 bis 10 unber\xFChrt.", " "), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Unsere Verpflichtungen zur Entfernung von Informationen oder zur Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen aufgrund von gerichtlichen oder beh\xF6rdlichen Anordnungen bleiben auch im Falle unserer Nichtverantwortlichkeit nach den \xA7\xA7 8 bis 10 unber\xFChrt.", " "), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 99,
       columnNumber: 9
     }
-  }, "Sollten Ihnen problematische oder rechtswidrige Inhalte auffallen, bitte wir Sie uns umgehend zu kontaktieren, damit wir die rechtswidrigen Inhalte entfernen k\xF6nnen. Sie finden die Kontaktdaten im Impressum."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
+  }, "Sollten Ihnen problematische oder rechtswidrige Inhalte auffallen, bitte wir Sie uns umgehend zu kontaktieren, damit wir die rechtswidrigen Inhalte entfernen k\xF6nnen. Sie finden die Kontaktdaten im Impressum."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -921,21 +921,21 @@ function Imprint() {
       lineNumber: 105,
       columnNumber: 9
     }
-  }, "Haftung f\xFCr Links auf dieser Website"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Haftung f\xFCr Links auf dieser Website"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 106,
       columnNumber: 9
     }
-  }, "Unsere Webseite enth\xE4lt Links zu anderen Webseiten f\xFCr deren Inhalt wir nicht verantwortlich sind. Haftung f\xFCr verlinkte Websites besteht f\xFCr uns nicht, da wir keine Kenntnis rechtswidriger T\xE4tigkeiten hatten und haben, uns solche Rechtswidrigkeiten auch bisher nicht aufgefallen sind und wir Links sofort entfernen w\xFCrden, wenn uns Rechtswidrigkeiten bekannt werden."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Unsere Webseite enth\xE4lt Links zu anderen Webseiten f\xFCr deren Inhalt wir nicht verantwortlich sind. Haftung f\xFCr verlinkte Websites besteht f\xFCr uns nicht, da wir keine Kenntnis rechtswidriger T\xE4tigkeiten hatten und haben, uns solche Rechtswidrigkeiten auch bisher nicht aufgefallen sind und wir Links sofort entfernen w\xFCrden, wenn uns Rechtswidrigkeiten bekannt werden."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 114,
       columnNumber: 9
     }
-  }, "Wenn Ihnen rechtswidrige Links auf unserer Website auffallen, bitte wir Sie uns zu kontaktieren. Sie finden die Kontaktdaten im Impressum."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
+  }, "Wenn Ihnen rechtswidrige Links auf unserer Website auffallen, bitte wir Sie uns zu kontaktieren. Sie finden die Kontaktdaten im Impressum."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -943,21 +943,21 @@ function Imprint() {
       lineNumber: 118,
       columnNumber: 9
     }
-  }, "Urheberrechtshinweis"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Urheberrechtshinweis"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 119,
       columnNumber: 9
     }
-  }, "Alle Inhalte dieser Webseite (Bilder, Fotos, Texte, Videos) unterliegen dem Urheberrecht der Bundesrepublik Deutschland. Bitte fragen Sie uns bevor Sie die Inhalte dieser Website verbreiten, vervielf\xE4ltigen oder verwerten wie zum Beispiel auf anderen Websites erneut ver\xF6ffentlichen. Falls notwendig, werden wir die unerlaubte Nutzung von Teilen der Inhalte unserer Seite rechtlich verfolgen."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Alle Inhalte dieser Webseite (Bilder, Fotos, Texte, Videos) unterliegen dem Urheberrecht der Bundesrepublik Deutschland. Bitte fragen Sie uns bevor Sie die Inhalte dieser Website verbreiten, vervielf\xE4ltigen oder verwerten wie zum Beispiel auf anderen Websites erneut ver\xF6ffentlichen. Falls notwendig, werden wir die unerlaubte Nutzung von Teilen der Inhalte unserer Seite rechtlich verfolgen."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 127,
       columnNumber: 9
     }
-  }, "Sollten Sie auf dieser Webseite Inhalte finden, die das Urheberrecht verletzen, bitten wir Sie uns zu kontaktieren."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
+  }, "Sollten Sie auf dieser Webseite Inhalte finden, die das Urheberrecht verletzen, bitten wir Sie uns zu kontaktieren."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -965,21 +965,21 @@ function Imprint() {
       lineNumber: 131,
       columnNumber: 9
     }
-  }, "Bildernachweis"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Bildernachweis"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 132,
       columnNumber: 9
     }
-  }, "Die Bilder, Fotos und Grafiken auf dieser Webseite sind urheberrechtlich gesch\xFCtzt."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Die Bilder, Fotos und Grafiken auf dieser Webseite sind urheberrechtlich gesch\xFCtzt."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 136,
       columnNumber: 9
     }
-  }, "Die Bilderrechte liegen bei den folgenden Fotografen und Unternehmen:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
+  }, "Die Bilderrechte liegen bei den folgenden Fotografen und Unternehmen:"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -987,7 +987,7 @@ function Imprint() {
       lineNumber: 139,
       columnNumber: 9
     }
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -995,7 +995,7 @@ function Imprint() {
       lineNumber: 140,
       columnNumber: 11
     }
-  }, "Fotograf Markus Beck")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
+  }, "Fotograf Markus Beck")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -1003,21 +1003,21 @@ function Imprint() {
       lineNumber: 142,
       columnNumber: 9
     }
-  }, "Datenschutzerkl\xE4rung"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Datenschutzerkl\xE4rung"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 143,
       columnNumber: 9
     }
-  }, "Datenschutzbeauftragter : Markus Beck", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+  }, "Datenschutzbeauftragter : Markus Beck", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 145,
       columnNumber: 11
     }
-  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -1025,14 +1025,14 @@ function Imprint() {
       lineNumber: 147,
       columnNumber: 9
     }
-  }, "Datenschutz"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Datenschutz"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 148,
       columnNumber: 9
     }
-  }, "Wir haben diese Datenschutzerkl\xE4rung (Fassung 25.03.2020-321164724) verfasst, um Ihnen gem\xE4\xDF der Vorgaben der", " ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+  }, "Wir haben diese Datenschutzerkl\xE4rung (Fassung 25.03.2020-321164724) verfasst, um Ihnen gem\xE4\xDF der Vorgaben der", " ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     class: "adsimple-321164724",
     href: "https://eur-lex.europa.eu/legal-content/DE/ALL/?uri=celex%3A32016R0679&tid=321164724",
     target: "_blank",
@@ -1043,14 +1043,14 @@ function Imprint() {
       lineNumber: 151,
       columnNumber: 11
     }
-  }, "Datenschutz-Grundverordnung (EU) 2016/679"), " ", "zu erkl\xE4ren, welche Informationen wir sammeln, wie wir Daten verwenden und welche Entscheidungsm\xF6glichkeiten Sie als Besucher dieser Webseite haben."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Datenschutz-Grundverordnung (EU) 2016/679"), " ", "zu erkl\xE4ren, welche Informationen wir sammeln, wie wir Daten verwenden und welche Entscheidungsm\xF6glichkeiten Sie als Besucher dieser Webseite haben."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 163,
       columnNumber: 9
     }
-  }, "Leider liegt es in der Natur der Sache, dass diese Erkl\xE4rungen sehr technisch klingen, wir haben uns bei der Erstellung jedoch bem\xFCht die wichtigsten Dinge so einfach und klar wie m\xF6glich zu beschreiben."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
+  }, "Leider liegt es in der Natur der Sache, dass diese Erkl\xE4rungen sehr technisch klingen, wir haben uns bei der Erstellung jedoch bem\xFCht die wichtigsten Dinge so einfach und klar wie m\xF6glich zu beschreiben."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -1058,21 +1058,21 @@ function Imprint() {
       lineNumber: 168,
       columnNumber: 9
     }
-  }, "Cookies"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Cookies"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 169,
       columnNumber: 9
     }
-  }, "Unsere Website verwendet HTTP-Cookies um nutzerspezifische Daten zu speichern.", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+  }, "Unsere Website verwendet HTTP-Cookies um nutzerspezifische Daten zu speichern.", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 172,
       columnNumber: 11
     }
-  }), "Im Folgenden erkl\xE4ren wir, was Cookies sind und warum Sie genutzt werden, damit Sie die folgende Datenschutzerkl\xE4rung besser verstehen."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
+  }), "Im Folgenden erkl\xE4ren wir, was Cookies sind und warum Sie genutzt werden, damit Sie die folgende Datenschutzerkl\xE4rung besser verstehen."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -1080,42 +1080,42 @@ function Imprint() {
       lineNumber: 176,
       columnNumber: 9
     }
-  }, "Was genau sind Cookies?"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Was genau sind Cookies?"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 177,
       columnNumber: 9
     }
-  }, "Immer wenn Sie durch das Internet surfen, verwenden Sie einen Browser. Bekannte Browser sind beispielsweise Chrome, Safari, Firefox, Internet Explorer und Microsoft Edge. Die meisten Webseiten speichern kleine Text-Dateien in Ihrem Browser. Diese Dateien nennt man Cookies."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Immer wenn Sie durch das Internet surfen, verwenden Sie einen Browser. Bekannte Browser sind beispielsweise Chrome, Safari, Firefox, Internet Explorer und Microsoft Edge. Die meisten Webseiten speichern kleine Text-Dateien in Ihrem Browser. Diese Dateien nennt man Cookies."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 183,
       columnNumber: 9
     }
-  }, "Eines ist nicht von der Hand zu weisen: Cookies sind echt n\xFCtzliche Helferlein. Fast alle Webseiten verwenden\xA0Cookies. Genauer gesprochen sind es HTTP-Cookies, da es auch noch andere\xA0Cookies f\xFCr andere Anwendungsbereiche gibt. HTTP-Cookies\xA0sind kleine Dateien, die von unserer Website auf Ihrem Computer gespeichert werden. Diese Cookie-Dateien werden automatisch im Cookie-Ordner, quasi dem \u201CHirn\u201D Ihres Browsers, untergebracht. Ein Cookie besteht aus einem Namen und einem Wert. Bei der Definition eines Cookies m\xFCssen zus\xE4tzlich ein oder mehrere Attribute angegeben werden."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Eines ist nicht von der Hand zu weisen: Cookies sind echt n\xFCtzliche Helferlein. Fast alle Webseiten verwenden\xA0Cookies. Genauer gesprochen sind es HTTP-Cookies, da es auch noch andere\xA0Cookies f\xFCr andere Anwendungsbereiche gibt. HTTP-Cookies\xA0sind kleine Dateien, die von unserer Website auf Ihrem Computer gespeichert werden. Diese Cookie-Dateien werden automatisch im Cookie-Ordner, quasi dem \u201CHirn\u201D Ihres Browsers, untergebracht. Ein Cookie besteht aus einem Namen und einem Wert. Bei der Definition eines Cookies m\xFCssen zus\xE4tzlich ein oder mehrere Attribute angegeben werden."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 194,
       columnNumber: 9
     }
-  }, "Cookies\xA0speichern gewisse Nutzerdaten von Ihnen, wie beispielsweise Sprache oder pers\xF6nliche Seiteneinstellungen. Wenn Sie unsere Seite wieder aufrufen, \xFCbermittelt Ihr Browser die \u201Euserbezogenen\u201C Informationen an unsere Seite zur\xFCck. Dank der Cookies wei\xDF unsere Website, wer Sie sind und bietet Ihnen Ihre gewohnte Standardeinstellung. In einigen Browsern hat jedes\xA0Cookie\xA0eine eigene Datei, in anderen wie beispielsweise Firefox sind alle\xA0Cookies\xA0in einer einzigen Datei gespeichert."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Cookies\xA0speichern gewisse Nutzerdaten von Ihnen, wie beispielsweise Sprache oder pers\xF6nliche Seiteneinstellungen. Wenn Sie unsere Seite wieder aufrufen, \xFCbermittelt Ihr Browser die \u201Euserbezogenen\u201C Informationen an unsere Seite zur\xFCck. Dank der Cookies wei\xDF unsere Website, wer Sie sind und bietet Ihnen Ihre gewohnte Standardeinstellung. In einigen Browsern hat jedes\xA0Cookie\xA0eine eigene Datei, in anderen wie beispielsweise Firefox sind alle\xA0Cookies\xA0in einer einzigen Datei gespeichert."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 204,
       columnNumber: 9
     }
-  }, "Es gibt sowohl Erstanbieter Cookies als auch Drittanbieter-Cookies. Erstanbieter-Cookies werden direkt von unserer Seite erstellt, Drittanbieter-Cookies werden von Partner-Webseiten (z.B. Google Analytics) erstellt.\xA0Jedes Cookie ist individuell zu bewerten, da jedes Cookie andere Daten speichert. Auch die Ablaufzeit eines Cookies variiert von ein paar Minuten bis hin zu ein paar Jahren.\xA0Cookies sind keine Software-Programme und enthalten keine Viren, Trojaner oder andere \u201ESch\xE4dlinge\u201C. Cookies k\xF6nnen auch nicht auf Informationen Ihres PCs zugreifen."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Es gibt sowohl Erstanbieter Cookies als auch Drittanbieter-Cookies. Erstanbieter-Cookies werden direkt von unserer Seite erstellt, Drittanbieter-Cookies werden von Partner-Webseiten (z.B. Google Analytics) erstellt.\xA0Jedes Cookie ist individuell zu bewerten, da jedes Cookie andere Daten speichert. Auch die Ablaufzeit eines Cookies variiert von ein paar Minuten bis hin zu ein paar Jahren.\xA0Cookies sind keine Software-Programme und enthalten keine Viren, Trojaner oder andere \u201ESch\xE4dlinge\u201C. Cookies k\xF6nnen auch nicht auf Informationen Ihres PCs zugreifen."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 215,
       columnNumber: 9
     }
-  }, "So k\xF6nnen zum Beispiel Cookie-Daten aussehen:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
+  }, "So k\xF6nnen zum Beispiel Cookie-Daten aussehen:"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -1123,7 +1123,7 @@ function Imprint() {
       lineNumber: 216,
       columnNumber: 9
     }
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -1131,7 +1131,7 @@ function Imprint() {
       lineNumber: 217,
       columnNumber: 11
     }
-  }, "Name: _ga"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+  }, "Name: _ga"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -1139,7 +1139,7 @@ function Imprint() {
       lineNumber: 218,
       columnNumber: 11
     }
-  }, "Ablaufzeit: 2 Jahre"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+  }, "Ablaufzeit: 2 Jahre"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -1147,7 +1147,7 @@ function Imprint() {
       lineNumber: 219,
       columnNumber: 11
     }
-  }, "Verwendung: Unterscheidung der Webseitenbesucher"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+  }, "Verwendung: Unterscheidung der Webseitenbesucher"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -1155,14 +1155,14 @@ function Imprint() {
       lineNumber: 222,
       columnNumber: 11
     }
-  }, "Beispielhafter Wert:\xA0GA1.2.1326744211.152321164724")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Beispielhafter Wert:\xA0GA1.2.1326744211.152321164724")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 226,
       columnNumber: 9
     }
-  }, "Ein Browser sollte folgende Mindestgr\xF6\xDFen unterst\xFCtzen:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
+  }, "Ein Browser sollte folgende Mindestgr\xF6\xDFen unterst\xFCtzen:"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -1170,7 +1170,7 @@ function Imprint() {
       lineNumber: 227,
       columnNumber: 9
     }
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -1178,7 +1178,7 @@ function Imprint() {
       lineNumber: 228,
       columnNumber: 11
     }
-  }, "Ein Cookie soll mindestens 4096 Bytes enthalten k\xF6nnen"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+  }, "Ein Cookie soll mindestens 4096 Bytes enthalten k\xF6nnen"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -1186,7 +1186,7 @@ function Imprint() {
       lineNumber: 231,
       columnNumber: 11
     }
-  }, "Pro Domain sollen mindestens 50 Cookies gespeichert werden k\xF6nnen"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+  }, "Pro Domain sollen mindestens 50 Cookies gespeichert werden k\xF6nnen"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -1194,7 +1194,7 @@ function Imprint() {
       lineNumber: 234,
       columnNumber: 11
     }
-  }, "Insgesamt sollen mindestens 3000 Cookies gespeichert werden k\xF6nnen")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
+  }, "Insgesamt sollen mindestens 3000 Cookies gespeichert werden k\xF6nnen")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -1202,28 +1202,28 @@ function Imprint() {
       lineNumber: 238,
       columnNumber: 9
     }
-  }, "Welche Arten von Cookies gibt es?"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Welche Arten von Cookies gibt es?"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 239,
       columnNumber: 9
     }
-  }, "Die Frage welche Cookies wir im Speziellen verwenden, h\xE4ngt von den verwendeten Diensten ab und wird in der folgenden Abschnitten der Datenschutzerkl\xE4rung gekl\xE4rt. An dieser Stelle m\xF6chten wir kurz auf die verschiedenen Arten von HTTP-Cookies eingehen."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Die Frage welche Cookies wir im Speziellen verwenden, h\xE4ngt von den verwendeten Diensten ab und wird in der folgenden Abschnitten der Datenschutzerkl\xE4rung gekl\xE4rt. An dieser Stelle m\xF6chten wir kurz auf die verschiedenen Arten von HTTP-Cookies eingehen."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 245,
       columnNumber: 9
     }
-  }, "Man kann 4 Arten von Cookies unterscheiden:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Man kann 4 Arten von Cookies unterscheiden:"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 246,
       columnNumber: 9
     }
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -1231,21 +1231,21 @@ function Imprint() {
       lineNumber: 247,
       columnNumber: 11
     }
-  }, "Unbedingt notwendige Cookies", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+  }, "Unbedingt notwendige Cookies", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 249,
       columnNumber: 13
     }
-  })), "Diese Cookies sind n\xF6tig, um grundlegende Funktionen der Website sicherzustellen. Zum Beispiel braucht es diese Cookies, wenn ein User ein Produkt in den Warenkorb legt, dann auf anderen Seiten weitersurft und sp\xE4ter erst zur Kasse geht. Durch diese Cookies wird der Warenkorb nicht gel\xF6scht, selbst wenn der User sein Browserfenster schlie\xDFt."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  })), "Diese Cookies sind n\xF6tig, um grundlegende Funktionen der Website sicherzustellen. Zum Beispiel braucht es diese Cookies, wenn ein User ein Produkt in den Warenkorb legt, dann auf anderen Seiten weitersurft und sp\xE4ter erst zur Kasse geht. Durch diese Cookies wird der Warenkorb nicht gel\xF6scht, selbst wenn der User sein Browserfenster schlie\xDFt."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 257,
       columnNumber: 9
     }
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -1253,21 +1253,21 @@ function Imprint() {
       lineNumber: 258,
       columnNumber: 11
     }
-  }, "Funktionelle Cookies", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+  }, "Funktionelle Cookies", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 260,
       columnNumber: 13
     }
-  })), "Diese Cookies sammeln Infos \xFCber das Userverhalten und ob der User etwaige Fehlermeldungen bekommt. Zudem werden mithilfe dieser Cookies auch die Ladezeit und das Verhalten der Website bei verschiedenen Browsern gemessen."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  })), "Diese Cookies sammeln Infos \xFCber das Userverhalten und ob der User etwaige Fehlermeldungen bekommt. Zudem werden mithilfe dieser Cookies auch die Ladezeit und das Verhalten der Website bei verschiedenen Browsern gemessen."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 267,
       columnNumber: 9
     }
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -1275,21 +1275,21 @@ function Imprint() {
       lineNumber: 268,
       columnNumber: 11
     }
-  }, "Zielorientierte Cookies", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+  }, "Zielorientierte Cookies", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 270,
       columnNumber: 13
     }
-  })), "Diese Cookies sorgen f\xFCr eine bessere Nutzerfreundlichkeit. Beispielsweise werden eingegebene Standorte, Schriftgr\xF6\xDFen oder Formulardaten gespeichert."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  })), "Diese Cookies sorgen f\xFCr eine bessere Nutzerfreundlichkeit. Beispielsweise werden eingegebene Standorte, Schriftgr\xF6\xDFen oder Formulardaten gespeichert."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 276,
       columnNumber: 9
     }
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -1297,21 +1297,21 @@ function Imprint() {
       lineNumber: 277,
       columnNumber: 11
     }
-  }, "Werbe-Cookies", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+  }, "Werbe-Cookies", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 279,
       columnNumber: 13
     }
-  })), "Diese Cookies werden auch Targeting-Cookies genannt. Sie dienen dazu dem User individuell angepasste Werbung zu liefern. Das kann sehr praktisch, aber auch sehr nervig sein."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  })), "Diese Cookies werden auch Targeting-Cookies genannt. Sie dienen dazu dem User individuell angepasste Werbung zu liefern. Das kann sehr praktisch, aber auch sehr nervig sein."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 285,
       columnNumber: 9
     }
-  }, "\xDCblicherweise werden Sie beim erstmaligen Besuch einer Webseite gefragt, welche dieser Cookiearten Sie zulassen m\xF6chten. Und nat\xFCrlich wird diese Entscheidung auch in einem Cookie gespeichert."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
+  }, "\xDCblicherweise werden Sie beim erstmaligen Besuch einer Webseite gefragt, welche dieser Cookiearten Sie zulassen m\xF6chten. Und nat\xFCrlich wird diese Entscheidung auch in einem Cookie gespeichert."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -1319,28 +1319,28 @@ function Imprint() {
       lineNumber: 290,
       columnNumber: 9
     }
-  }, "Wie kann ich Cookies l\xF6schen?"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Wie kann ich Cookies l\xF6schen?"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 291,
       columnNumber: 9
     }
-  }, "Wie und ob Sie Cookies verwenden wollen, entscheiden Sie selbst. Unabh\xE4ngig von welchem Service oder welcher Website die Cookies stammen, haben Sie immer die M\xF6glichkeit\xA0Cookies zu l\xF6schen, nur teilweise zuzulassen oder zu deaktivieren. Zum Beispiel k\xF6nnen Sie Cookies von Drittanbietern blockieren, aber alle anderen Cookies zulassen."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Wie und ob Sie Cookies verwenden wollen, entscheiden Sie selbst. Unabh\xE4ngig von welchem Service oder welcher Website die Cookies stammen, haben Sie immer die M\xF6glichkeit\xA0Cookies zu l\xF6schen, nur teilweise zuzulassen oder zu deaktivieren. Zum Beispiel k\xF6nnen Sie Cookies von Drittanbietern blockieren, aber alle anderen Cookies zulassen."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 299,
       columnNumber: 9
     }
-  }, "Wenn Sie feststellen m\xF6chten, welche Cookies in Ihrem Browser gespeichert wurden, wenn Sie Cookie-Einstellungen \xE4ndern oder l\xF6schen wollen, k\xF6nnen Sie dies in Ihren Browser-Einstellungen finden:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Wenn Sie feststellen m\xF6chten, welche Cookies in Ihrem Browser gespeichert wurden, wenn Sie Cookie-Einstellungen \xE4ndern oder l\xF6schen wollen, k\xF6nnen Sie dies in Ihren Browser-Einstellungen finden:"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 304,
       columnNumber: 9
     }
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     class: "adsimple-321164724",
     href: "https://support.google.com/chrome/answer/95647?tid=321164724",
     target: "_blank",
@@ -1351,14 +1351,14 @@ function Imprint() {
       lineNumber: 305,
       columnNumber: 11
     }
-  }, "Chrome: Cookies in Chrome l\xF6schen, aktivieren und verwalten")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Chrome: Cookies in Chrome l\xF6schen, aktivieren und verwalten")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 314,
       columnNumber: 9
     }
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     class: "adsimple-321164724",
     href: "https://support.apple.com/de-at/guide/safari/sfri11471/mac?tid=321164724",
     target: "_blank",
@@ -1369,14 +1369,14 @@ function Imprint() {
       lineNumber: 315,
       columnNumber: 11
     }
-  }, "Safari: Verwalten von Cookies und Websitedaten mit Safari")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Safari: Verwalten von Cookies und Websitedaten mit Safari")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 324,
       columnNumber: 9
     }
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     class: "adsimple-321164724",
     href: "https://support.mozilla.org/de/kb/cookies-und-website-daten-in-firefox-loschen?tid=321164724",
     target: "_blank",
@@ -1387,14 +1387,14 @@ function Imprint() {
       lineNumber: 325,
       columnNumber: 11
     }
-  }, "Firefox: Cookies l\xF6schen, um Daten zu entfernen, die Websites auf Ihrem Computer abgelegt haben")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Firefox: Cookies l\xF6schen, um Daten zu entfernen, die Websites auf Ihrem Computer abgelegt haben")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 335,
       columnNumber: 9
     }
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     class: "adsimple-321164724",
     href: "https://support.microsoft.com/de-at/help/17442/windows-internet-explorer-delete-manage-cookies?tid=321164724",
     target: "_blank",
@@ -1405,14 +1405,14 @@ function Imprint() {
       lineNumber: 336,
       columnNumber: 11
     }
-  }, "Internet Explorer: L\xF6schen und Verwalten von Cookies")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Internet Explorer: L\xF6schen und Verwalten von Cookies")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 345,
       columnNumber: 9
     }
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     class: "adsimple-321164724",
     href: "https://support.microsoft.com/de-at/help/4027947/windows-delete-cookies?tid=321164724",
     target: "_blank",
@@ -1423,14 +1423,14 @@ function Imprint() {
       lineNumber: 346,
       columnNumber: 11
     }
-  }, "Microsoft Edge: L\xF6schen und Verwalten von Cookies")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Microsoft Edge: L\xF6schen und Verwalten von Cookies")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 355,
       columnNumber: 9
     }
-  }, "Falls Sie grunds\xE4tzlich keine Cookies haben wollen, k\xF6nnen Sie Ihren Browser so einrichten, dass er Sie immer informiert, wenn ein Cookie gesetzt werden soll. So k\xF6nnen Sie bei jedem einzelnen Cookie entscheiden, ob Sie das Cookie erlauben oder nicht. Die Vorgangsweise ist je nach Browser verschieden. Am besten ist es Sie suchen die Anleitung in Google mit dem Suchbegriff \u201CCookies l\xF6schen Chrome\u201D oder \u201CCookies deaktivieren Chrome\u201D im Falle eines Chrome Browsers oder tauschen das Wort \u201CChrome\u201D gegen den Namen Ihres Browsers, z.B. Edge, Firefox, Safari aus."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
+  }, "Falls Sie grunds\xE4tzlich keine Cookies haben wollen, k\xF6nnen Sie Ihren Browser so einrichten, dass er Sie immer informiert, wenn ein Cookie gesetzt werden soll. So k\xF6nnen Sie bei jedem einzelnen Cookie entscheiden, ob Sie das Cookie erlauben oder nicht. Die Vorgangsweise ist je nach Browser verschieden. Am besten ist es Sie suchen die Anleitung in Google mit dem Suchbegriff \u201CCookies l\xF6schen Chrome\u201D oder \u201CCookies deaktivieren Chrome\u201D im Falle eines Chrome Browsers oder tauschen das Wort \u201CChrome\u201D gegen den Namen Ihres Browsers, z.B. Edge, Firefox, Safari aus."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -1438,21 +1438,21 @@ function Imprint() {
       lineNumber: 366,
       columnNumber: 9
     }
-  }, "Wie sieht es mit meinem Datenschutz aus?"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Wie sieht es mit meinem Datenschutz aus?"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 369,
       columnNumber: 9
     }
-  }, "Seit 2009 gibt es die sogenannten \u201ECookie-Richtlinien\u201C. Darin ist festgehalten, dass das Speichern von Cookies eine Einwilligung des Website-Besuchers (also von Ihnen) verlangt. Innerhalb der EU-L\xE4nder gibt es allerdings noch sehr unterschiedliche Reaktionen auf diese Richtlinien. In Deutschland wurden die Cookie-Richtlinien nicht als nationales Recht umgesetzt. Stattdessen erfolgte die Umsetzung dieser Richtlinie weitgehend in \xA7 15 Abs.3 des Telemediengesetzes (TMG)."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Seit 2009 gibt es die sogenannten \u201ECookie-Richtlinien\u201C. Darin ist festgehalten, dass das Speichern von Cookies eine Einwilligung des Website-Besuchers (also von Ihnen) verlangt. Innerhalb der EU-L\xE4nder gibt es allerdings noch sehr unterschiedliche Reaktionen auf diese Richtlinien. In Deutschland wurden die Cookie-Richtlinien nicht als nationales Recht umgesetzt. Stattdessen erfolgte die Umsetzung dieser Richtlinie weitgehend in \xA7 15 Abs.3 des Telemediengesetzes (TMG)."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 378,
       columnNumber: 9
     }
-  }, "Wenn Sie mehr \xFCber Cookies wissen m\xF6chten und vor technischen Dokumentationen nicht zur\xFCckscheuen, empfehlen wir\xA0", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+  }, "Wenn Sie mehr \xFCber Cookies wissen m\xF6chten und vor technischen Dokumentationen nicht zur\xFCckscheuen, empfehlen wir\xA0", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     class: "adsimple-321164724",
     href: "https://tools.ietf.org/html/rfc6265",
     target: "_blank",
@@ -1463,7 +1463,7 @@ function Imprint() {
       lineNumber: 381,
       columnNumber: 11
     }
-  }, "https://tools.ietf.org/html/rfc6265"), ", dem Request for Comments der Internet Engineering Task Force (IETF) namens \u201CHTTP State Management Mechanism\u201D."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
+  }, "https://tools.ietf.org/html/rfc6265"), ", dem Request for Comments der Internet Engineering Task Force (IETF) namens \u201CHTTP State Management Mechanism\u201D."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -1471,35 +1471,35 @@ function Imprint() {
       lineNumber: 392,
       columnNumber: 9
     }
-  }, "Speicherung pers\xF6nlicher Daten"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Speicherung pers\xF6nlicher Daten"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 393,
       columnNumber: 9
     }
-  }, "Pers\xF6nliche Daten, die Sie uns auf dieser Website elektronisch \xFCbermitteln, wie zum Beispiel Name, E-Mail-Adresse, Adresse oder andere pers\xF6nlichen Angaben im Rahmen der \xDCbermittlung eines Formulars oder Kommentaren im Blog, werden von uns gemeinsam mit dem Zeitpunkt und der IP-Adresse nur zum jeweils angegebenen Zweck verwendet, sicher verwahrt und nicht an Dritte weitergegeben."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Pers\xF6nliche Daten, die Sie uns auf dieser Website elektronisch \xFCbermitteln, wie zum Beispiel Name, E-Mail-Adresse, Adresse oder andere pers\xF6nlichen Angaben im Rahmen der \xDCbermittlung eines Formulars oder Kommentaren im Blog, werden von uns gemeinsam mit dem Zeitpunkt und der IP-Adresse nur zum jeweils angegebenen Zweck verwendet, sicher verwahrt und nicht an Dritte weitergegeben."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 401,
       columnNumber: 9
     }
-  }, "Wir nutzen Ihre pers\xF6nlichen Daten somit nur f\xFCr die Kommunikation mit jenen Besuchern, die Kontakt ausdr\xFCcklich w\xFCnschen und f\xFCr die Abwicklung der auf dieser Webseite angebotenen Dienstleistungen und Produkte. Wir geben Ihre pers\xF6nlichen Daten ohne Zustimmung nicht weiter, k\xF6nnen jedoch nicht ausschlie\xDFen, dass diese Daten beim Vorliegen von rechtswidrigem Verhalten eingesehen werden."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Wir nutzen Ihre pers\xF6nlichen Daten somit nur f\xFCr die Kommunikation mit jenen Besuchern, die Kontakt ausdr\xFCcklich w\xFCnschen und f\xFCr die Abwicklung der auf dieser Webseite angebotenen Dienstleistungen und Produkte. Wir geben Ihre pers\xF6nlichen Daten ohne Zustimmung nicht weiter, k\xF6nnen jedoch nicht ausschlie\xDFen, dass diese Daten beim Vorliegen von rechtswidrigem Verhalten eingesehen werden."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 409,
       columnNumber: 9
     }
-  }, "Wenn Sie uns pers\xF6nliche Daten per E-Mail schicken \u2013 somit abseits dieser Webseite \u2013 k\xF6nnen wir keine sichere \xDCbertragung und den Schutz Ihrer Daten garantieren. Wir empfehlen Ihnen, vertrauliche Daten niemals unverschl\xFCsselt per E-Mail zu \xFCbermitteln."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Wenn Sie uns pers\xF6nliche Daten per E-Mail schicken \u2013 somit abseits dieser Webseite \u2013 k\xF6nnen wir keine sichere \xDCbertragung und den Schutz Ihrer Daten garantieren. Wir empfehlen Ihnen, vertrauliche Daten niemals unverschl\xFCsselt per E-Mail zu \xFCbermitteln."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 415,
       columnNumber: 9
     }
-  }, "Die Rechtsgrundlage besteht nach", " ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+  }, "Die Rechtsgrundlage besteht nach", " ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     class: "adsimple-321164724",
     href: "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32016R0679&from=DE&tid=321164724",
     target: "_blank",
@@ -1510,7 +1510,7 @@ function Imprint() {
       lineNumber: 417,
       columnNumber: 11
     }
-  }, "Artikel 6\xA0 Absatz 1 a DSGVO"), " ", "(Rechtm\xE4\xDFigkeit der Verarbeitung) darin, dass Sie uns die Einwilligung zur Verarbeitung der von Ihnen eingegebenen Daten geben. Sie k\xF6nnen diesen Einwilligung jederzeit widerrufen \u2013 eine formlose E-Mail reicht aus, Sie finden unsere Kontaktdaten im Impressum."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
+  }, "Artikel 6\xA0 Absatz 1 a DSGVO"), " ", "(Rechtm\xE4\xDFigkeit der Verarbeitung) darin, dass Sie uns die Einwilligung zur Verarbeitung der von Ihnen eingegebenen Daten geben. Sie k\xF6nnen diesen Einwilligung jederzeit widerrufen \u2013 eine formlose E-Mail reicht aus, Sie finden unsere Kontaktdaten im Impressum."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -1518,14 +1518,14 @@ function Imprint() {
       lineNumber: 430,
       columnNumber: 9
     }
-  }, "Rechte laut Datenschutzgrundverordnung"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Rechte laut Datenschutzgrundverordnung"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 433,
       columnNumber: 9
     }
-  }, "Ihnen stehen laut den Bestimmungen der DSGVO grunds\xE4tzlich die folgende Rechte zu:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
+  }, "Ihnen stehen laut den Bestimmungen der DSGVO grunds\xE4tzlich die folgende Rechte zu:"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -1533,7 +1533,7 @@ function Imprint() {
       lineNumber: 437,
       columnNumber: 9
     }
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -1541,7 +1541,7 @@ function Imprint() {
       lineNumber: 438,
       columnNumber: 11
     }
-  }, "Recht auf Berichtigung (Artikel 16 DSGVO)"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+  }, "Recht auf Berichtigung (Artikel 16 DSGVO)"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -1549,7 +1549,7 @@ function Imprint() {
       lineNumber: 441,
       columnNumber: 11
     }
-  }, "Recht auf L\xF6schung (\u201ERecht auf Vergessenwerden\u201C) (Artikel 17 DSGVO)"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+  }, "Recht auf L\xF6schung (\u201ERecht auf Vergessenwerden\u201C) (Artikel 17 DSGVO)"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -1557,7 +1557,7 @@ function Imprint() {
       lineNumber: 444,
       columnNumber: 11
     }
-  }, "Recht auf Einschr\xE4nkung der Verarbeitung (Artikel 18 DSGVO)"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+  }, "Recht auf Einschr\xE4nkung der Verarbeitung (Artikel 18 DSGVO)"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -1565,7 +1565,7 @@ function Imprint() {
       lineNumber: 447,
       columnNumber: 11
     }
-  }, "Recht auf Benachrichtigung \u2013 Mitteilungspflicht im Zusammenhang mit der Berichtigung oder L\xF6schung personenbezogener Daten oder der Einschr\xE4nkung der Verarbeitung (Artikel 19 DSGVO)"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+  }, "Recht auf Benachrichtigung \u2013 Mitteilungspflicht im Zusammenhang mit der Berichtigung oder L\xF6schung personenbezogener Daten oder der Einschr\xE4nkung der Verarbeitung (Artikel 19 DSGVO)"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -1573,7 +1573,7 @@ function Imprint() {
       lineNumber: 452,
       columnNumber: 11
     }
-  }, "Recht auf Daten\xFCbertragbarkeit (Artikel 20 DSGVO)"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+  }, "Recht auf Daten\xFCbertragbarkeit (Artikel 20 DSGVO)"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -1581,7 +1581,7 @@ function Imprint() {
       lineNumber: 455,
       columnNumber: 11
     }
-  }, "Widerspruchsrecht (Artikel 21 DSGVO)"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+  }, "Widerspruchsrecht (Artikel 21 DSGVO)"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -1589,20 +1589,20 @@ function Imprint() {
       lineNumber: 458,
       columnNumber: 11
     }
-  }, "Recht, nicht einer ausschlie\xDFlich auf einer automatisierten Verarbeitung \u2014 einschlie\xDFlich Profiling \u2014 beruhenden Entscheidung unterworfen zu werden (Artikel 22 DSGVO)")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Recht, nicht einer ausschlie\xDFlich auf einer automatisierten Verarbeitung \u2014 einschlie\xDFlich Profiling \u2014 beruhenden Entscheidung unterworfen zu werden (Artikel 22 DSGVO)")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 464,
       columnNumber: 9
     }
-  }, "Wenn Sie glauben, dass die Verarbeitung Ihrer Daten gegen das Datenschutzrecht verst\xF6\xDFt oder Ihre datenschutzrechtlichen Anspr\xFCche sonst in einer Weise verletzt worden sind, k\xF6nnen Sie sich an die", " ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", (_React$createElement = {
+  }, "Wenn Sie glauben, dass die Verarbeitung Ihrer Daten gegen das Datenschutzrecht verst\xF6\xDFt oder Ihre datenschutzrechtlichen Anspr\xFCche sonst in einer Weise verletzt worden sind, k\xF6nnen Sie sich an die", " ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", (_React$createElement = {
     class: "adsimple-321164724"
   }, _defineProperty(_React$createElement, "class", "321164724"), _defineProperty(_React$createElement, "href", "https://www.bfdi.bund.de"), _defineProperty(_React$createElement, "target", "_blank"), _defineProperty(_React$createElement, "rel", "noopener"), _defineProperty(_React$createElement, "__self", this), _defineProperty(_React$createElement, "__source", {
     fileName: _jsxFileName,
     lineNumber: 468,
     columnNumber: 11
-  }), _React$createElement), "Bundesbeauftragte f\xFCr den Datenschutz und die Informationsfreiheit (BfDI)"), " ", "wenden."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
+  }), _React$createElement), "Bundesbeauftragte f\xFCr den Datenschutz und die Informationsfreiheit (BfDI)"), " ", "wenden."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -1610,21 +1610,21 @@ function Imprint() {
       lineNumber: 480,
       columnNumber: 9
     }
-  }, "Auswertung des Besucherverhaltens"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Auswertung des Besucherverhaltens"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 481,
       columnNumber: 9
     }
-  }, "In der folgenden Datenschutzerkl\xE4rung informieren wir Sie dar\xFCber, ob und wie wir Daten Ihres Besuchs dieser Website auswerten. Die Auswertung der gesammelten Daten erfolgt in der Regel anonym und wir k\xF6nnen von Ihrem Verhalten auf dieser Website nicht auf Ihre Person schlie\xDFen."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "In der folgenden Datenschutzerkl\xE4rung informieren wir Sie dar\xFCber, ob und wie wir Daten Ihres Besuchs dieser Website auswerten. Die Auswertung der gesammelten Daten erfolgt in der Regel anonym und wir k\xF6nnen von Ihrem Verhalten auf dieser Website nicht auf Ihre Person schlie\xDFen."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 488,
       columnNumber: 9
     }
-  }, "Mehr \xFCber M\xF6glichkeiten dieser Auswertung der Besuchsdaten zu widersprechen erfahren Sie in der folgenden Datenschutzerkl\xE4rung."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
+  }, "Mehr \xFCber M\xF6glichkeiten dieser Auswertung der Besuchsdaten zu widersprechen erfahren Sie in der folgenden Datenschutzerkl\xE4rung."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -1632,14 +1632,14 @@ function Imprint() {
       lineNumber: 492,
       columnNumber: 9
     }
-  }, "TLS-Verschl\xFCsselung mit https"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "TLS-Verschl\xFCsselung mit https"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 493,
       columnNumber: 9
     }
-  }, "Wir verwenden https um Daten abh\xF6rsicher im Internet zu \xFCbertragen (Datenschutz durch Technikgestaltung", " ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+  }, "Wir verwenden https um Daten abh\xF6rsicher im Internet zu \xFCbertragen (Datenschutz durch Technikgestaltung", " ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     class: "adsimple-321164724",
     href: "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32016R0679&from=DE&tid=321164724",
     target: "_blank",
@@ -1650,7 +1650,7 @@ function Imprint() {
       lineNumber: 496,
       columnNumber: 11
     }
-  }, "Artikel 25 Absatz 1 DSGVO"), "). Durch den Einsatz von TLS (Transport Layer Security), einem Verschl\xFCsselungsprotokoll zur sicheren Daten\xFCbertragung im Internet k\xF6nnen wir den Schutz vertraulicher Daten sicherstellen. Sie erkennen die Benutzung dieser Absicherung der Daten\xFCbertragung am kleinen Schlo\xDFsymbol links oben im Browser und der Verwendung des Schemas https (anstatt http) als Teil unserer Internetadresse."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
+  }, "Artikel 25 Absatz 1 DSGVO"), "). Durch den Einsatz von TLS (Transport Layer Security), einem Verschl\xFCsselungsprotokoll zur sicheren Daten\xFCbertragung im Internet k\xF6nnen wir den Schutz vertraulicher Daten sicherstellen. Sie erkennen die Benutzung dieser Absicherung der Daten\xFCbertragung am kleinen Schlo\xDFsymbol links oben im Browser und der Verwendung des Schemas https (anstatt http) als Teil unserer Internetadresse."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -1658,21 +1658,21 @@ function Imprint() {
       lineNumber: 511,
       columnNumber: 9
     }
-  }, "Google Fonts Datenschutzerkl\xE4rung"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Google Fonts Datenschutzerkl\xE4rung"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 512,
       columnNumber: 9
     }
-  }, "Wir verwenden Google Fonts der Firma Google Inc. (1600 Amphitheatre Parkway Mountain View, CA 94043, USA) auf unserer Webseite."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Wir verwenden Google Fonts der Firma Google Inc. (1600 Amphitheatre Parkway Mountain View, CA 94043, USA) auf unserer Webseite."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 516,
       columnNumber: 9
     }
-  }, "F\xFCr die Verwendung von Google-Schriftarten m\xFCssen Sie sich nicht anmelden bzw. ein Passwort hinterlegen. Weiters werden auch keine Cookies in Ihrem Browser gespeichert. Die Dateien (CSS, Schriftarten/Fonts) werden \xFCber die Google-Domains fonts.googleapis.com und fonts.gstatic.com angefordert. Laut Google sind die Anfragen nach CSS und Schriften vollkommen getrennt von allen anderen Google-Diensten. Wenn Sie ein Google-Konto haben, brauchen Sie keine Sorge haben, dass Ihre Google-Kontodaten, w\xE4hrend der Verwendung von Google Fonts, an Google \xFCbermittelt werden. Google erfasst die Nutzung von CSS (Cascading Style Sheets) und der verwendeten Schriftarten und speichert diese Daten sicher. Wie die Datenspeicherung genau aussieht, werden wir uns noch im Detail ansehen."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
+  }, "F\xFCr die Verwendung von Google-Schriftarten m\xFCssen Sie sich nicht anmelden bzw. ein Passwort hinterlegen. Weiters werden auch keine Cookies in Ihrem Browser gespeichert. Die Dateien (CSS, Schriftarten/Fonts) werden \xFCber die Google-Domains fonts.googleapis.com und fonts.gstatic.com angefordert. Laut Google sind die Anfragen nach CSS und Schriften vollkommen getrennt von allen anderen Google-Diensten. Wenn Sie ein Google-Konto haben, brauchen Sie keine Sorge haben, dass Ihre Google-Kontodaten, w\xE4hrend der Verwendung von Google Fonts, an Google \xFCbermittelt werden. Google erfasst die Nutzung von CSS (Cascading Style Sheets) und der verwendeten Schriftarten und speichert diese Daten sicher. Wie die Datenspeicherung genau aussieht, werden wir uns noch im Detail ansehen."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -1680,14 +1680,14 @@ function Imprint() {
       lineNumber: 531,
       columnNumber: 9
     }
-  }, "Was sind Google Fonts?"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Was sind Google Fonts?"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 532,
       columnNumber: 9
     }
-  }, "Google Fonts\xA0(fr\xFCher\xA0Google Web Fonts) ist ein interaktives Verzeichnis mit mehr als 800\xA0Schriftarten, die die\xA0", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+  }, "Google Fonts\xA0(fr\xFCher\xA0Google Web Fonts) ist ein interaktives Verzeichnis mit mehr als 800\xA0Schriftarten, die die\xA0", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     class: "adsimple-321164724",
     href: "https://de.wikipedia.org/wiki/Google_LLC?tid=321164724",
     target: "_blank",
@@ -1698,14 +1698,14 @@ function Imprint() {
       lineNumber: 535,
       columnNumber: 11
     }
-  }, "Google LLC"), "\xA0zur freien Verwendung bereitstellt."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Google LLC"), "\xA0zur freien Verwendung bereitstellt."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 545,
       columnNumber: 9
     }
-  }, "Viele dieser Schriftarten sind unter der\xA0SIL Open Font License\xA0ver\xF6ffentlicht, w\xE4hrend andere unter der\xA0Apache-Lizenz\xA0ver\xF6ffentlicht wurden. Beides sind\xA0freie Software-Lizenzen. Somit k\xF6nnen wir sie frei verwenden, ohne daf\xFCr Lizenzgeb\xFChren zu zahlen."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
+  }, "Viele dieser Schriftarten sind unter der\xA0SIL Open Font License\xA0ver\xF6ffentlicht, w\xE4hrend andere unter der\xA0Apache-Lizenz\xA0ver\xF6ffentlicht wurden. Beides sind\xA0freie Software-Lizenzen. Somit k\xF6nnen wir sie frei verwenden, ohne daf\xFCr Lizenzgeb\xFChren zu zahlen."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -1713,21 +1713,21 @@ function Imprint() {
       lineNumber: 552,
       columnNumber: 9
     }
-  }, "Warum verwenden wir Google Fonts auf unserer Webseite?"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Warum verwenden wir Google Fonts auf unserer Webseite?"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 555,
       columnNumber: 9
     }
-  }, "Mit Google Fonts k\xF6nnen wir auf der eigenen Webseite Schriften nutzen, und m\xFCssen sie nicht auf unserem eigenen Server hochladen. Google Fonts ist ein wichtiger Baustein, um die Qualit\xE4t unserer Webseite hoch zu halten. Alle Google-Schriften sind automatisch f\xFCr das Web optimiert und dies spart Datenvolumen und ist speziell f\xFCr die Verwendung bei mobilen Endger\xE4ten ein gro\xDFer Vorteil. Wenn Sie unsere Seite besuchen, sorgt die niedrige Dateigr\xF6\xDFe f\xFCr eine schnelle Ladezeit. Des Weiteren sind Google Fonts sogenannte sichere Web Fonts. Unterschiedliche Bildsynthese-Systeme (Rendering) in verschiedenen Browsern, Betriebssystemen und mobilen Endger\xE4ten k\xF6nnen zu Fehlern f\xFChren. Solche Fehler k\xF6nnen teilweise Texte bzw. ganze Webseiten optisch verzerren. Dank des schnellen Content Delivery Network (CDN) gibt es mit Google Fonts keine plattform\xFCbergreifenden Probleme. Google Fonts unterst\xFCtzt alle g\xE4ngigen Browser ( Google Chrome,\xA0Mozilla Firefox,\xA0Apple Safari,\xA0Opera)\xA0 und funktioniert zuverl\xE4ssig auf den meisten modernen mobilen Betriebssystemen, einschlie\xDFlich Android 2.2+ und iOS 4.2+ (iPhone, iPad, iPod)."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Mit Google Fonts k\xF6nnen wir auf der eigenen Webseite Schriften nutzen, und m\xFCssen sie nicht auf unserem eigenen Server hochladen. Google Fonts ist ein wichtiger Baustein, um die Qualit\xE4t unserer Webseite hoch zu halten. Alle Google-Schriften sind automatisch f\xFCr das Web optimiert und dies spart Datenvolumen und ist speziell f\xFCr die Verwendung bei mobilen Endger\xE4ten ein gro\xDFer Vorteil. Wenn Sie unsere Seite besuchen, sorgt die niedrige Dateigr\xF6\xDFe f\xFCr eine schnelle Ladezeit. Des Weiteren sind Google Fonts sogenannte sichere Web Fonts. Unterschiedliche Bildsynthese-Systeme (Rendering) in verschiedenen Browsern, Betriebssystemen und mobilen Endger\xE4ten k\xF6nnen zu Fehlern f\xFChren. Solche Fehler k\xF6nnen teilweise Texte bzw. ganze Webseiten optisch verzerren. Dank des schnellen Content Delivery Network (CDN) gibt es mit Google Fonts keine plattform\xFCbergreifenden Probleme. Google Fonts unterst\xFCtzt alle g\xE4ngigen Browser ( Google Chrome,\xA0Mozilla Firefox,\xA0Apple Safari,\xA0Opera)\xA0 und funktioniert zuverl\xE4ssig auf den meisten modernen mobilen Betriebssystemen, einschlie\xDFlich Android 2.2+ und iOS 4.2+ (iPhone, iPad, iPod)."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 574,
       columnNumber: 9
     }
-  }, "Wir verwenden die Google Fonts also, damit wir unser gesamtes Online-Service so sch\xF6n und einheitlich wie m\xF6glich darstellen k\xF6nnen. Nach dem Art. 6 Abs. 1 f lit. F DSGVO stellt das bereits ein \u201Eberechtigtes Interesse\u201C an der Verarbeitung von personenbezogenen Daten dar. Unter \u201Eberechtigtem Interesse\u201C versteht man in diesem Fall sowohl rechtliche als auch wirtschaftliche oder ideelle Interessen, die vom Rechtssystem anerkannt werden."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
+  }, "Wir verwenden die Google Fonts also, damit wir unser gesamtes Online-Service so sch\xF6n und einheitlich wie m\xF6glich darstellen k\xF6nnen. Nach dem Art. 6 Abs. 1 f lit. F DSGVO stellt das bereits ein \u201Eberechtigtes Interesse\u201C an der Verarbeitung von personenbezogenen Daten dar. Unter \u201Eberechtigtem Interesse\u201C versteht man in diesem Fall sowohl rechtliche als auch wirtschaftliche oder ideelle Interessen, die vom Rechtssystem anerkannt werden."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -1735,28 +1735,28 @@ function Imprint() {
       lineNumber: 583,
       columnNumber: 9
     }
-  }, "Welche Daten werden von Google gespeichert?"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Welche Daten werden von Google gespeichert?"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 586,
       columnNumber: 9
     }
-  }, "Wenn Sie unsere Webseite besuchen, werden die Schriften \xFCber einen Google-Server nachgeladen. Durch diesen externen Aufruf werden Daten an die Google-Server \xFCbermittelt. So erkennt Google auch, dass Sie bzw. Ihre IP-Adresse unsere Webseite besucht. Die Google Fonts API wurde entwickelt, um die Erfassung, Speicherung und Verwendung von Endnutzerdaten auf das zu reduzieren, was f\xFCr eine effiziente Bereitstellung von Schriften n\xF6tig ist. API steht \xFCbrigens f\xFCr \u201EApplication Programming Interface\u201C und dient unter anderem als Daten\xFCbermittler im Softwarebereich."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Wenn Sie unsere Webseite besuchen, werden die Schriften \xFCber einen Google-Server nachgeladen. Durch diesen externen Aufruf werden Daten an die Google-Server \xFCbermittelt. So erkennt Google auch, dass Sie bzw. Ihre IP-Adresse unsere Webseite besucht. Die Google Fonts API wurde entwickelt, um die Erfassung, Speicherung und Verwendung von Endnutzerdaten auf das zu reduzieren, was f\xFCr eine effiziente Bereitstellung von Schriften n\xF6tig ist. API steht \xFCbrigens f\xFCr \u201EApplication Programming Interface\u201C und dient unter anderem als Daten\xFCbermittler im Softwarebereich."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 597,
       columnNumber: 9
     }
-  }, "Google Fonts speichert CSS- und Font-Anfragen sicher bei Google und ist somit gesch\xFCtzt.\xA0Durch die gesammelten Nutzungszahlen kann Google die Beliebtheit der Schriften feststellen. Die Ergebnisse ver\xF6ffentlicht Google auf internen Analyseseiten, wie beispielsweise Google Analytics. Zudem verwendet Google auch Daten des eigenen Web-Crawlers, um festzustellen, welche Webseiten Google-Schriften verwenden. Diese Daten werden in der BigQuery-Datenbank von Google Fonts ver\xF6ffentlicht. BigQuery ist ein Webservice von Google f\xFCr Unternehmen, die gro\xDFe Datenmengen bewegen und analysieren wollen."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Google Fonts speichert CSS- und Font-Anfragen sicher bei Google und ist somit gesch\xFCtzt.\xA0Durch die gesammelten Nutzungszahlen kann Google die Beliebtheit der Schriften feststellen. Die Ergebnisse ver\xF6ffentlicht Google auf internen Analyseseiten, wie beispielsweise Google Analytics. Zudem verwendet Google auch Daten des eigenen Web-Crawlers, um festzustellen, welche Webseiten Google-Schriften verwenden. Diese Daten werden in der BigQuery-Datenbank von Google Fonts ver\xF6ffentlicht. BigQuery ist ein Webservice von Google f\xFCr Unternehmen, die gro\xDFe Datenmengen bewegen und analysieren wollen."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 608,
       columnNumber: 9
     }
-  }, "Zu bedenken gilt allerdings noch, dass durch jede Google Font Anfrage auch Informationen wie IP-Adresse, Spracheinstellungen, Bildschirmaufl\xF6sung des Browsers, Version des Browsers und Name des Browsers automatisch an die Google-Server \xFCbertragen werden. Ob diese Daten auch gespeichert werden, ist nicht klar feststellbar bzw. wird von Google nicht eindeutig kommuniziert."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
+  }, "Zu bedenken gilt allerdings noch, dass durch jede Google Font Anfrage auch Informationen wie IP-Adresse, Spracheinstellungen, Bildschirmaufl\xF6sung des Browsers, Version des Browsers und Name des Browsers automatisch an die Google-Server \xFCbertragen werden. Ob diese Daten auch gespeichert werden, ist nicht klar feststellbar bzw. wird von Google nicht eindeutig kommuniziert."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -1764,21 +1764,21 @@ function Imprint() {
       lineNumber: 616,
       columnNumber: 9
     }
-  }, "Wie lange und wo werden die Daten gespeichert?"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Wie lange und wo werden die Daten gespeichert?"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 619,
       columnNumber: 9
     }
-  }, "Anfragen f\xFCr CSS-Assets speichert Google einen Tag lang auf Ihren Servern, die haupts\xE4chlich au\xDFerhalb der EU angesiedelt sind. Das erm\xF6glicht uns, mithilfe eines Google-Stylesheets die Schriftarten zu nutzen.\xA0Ein Stylesheet ist eine Formatvorlage, \xFCber die man einfach und schnell z.B. das Design bzw. die Schriftart einer Webseite \xE4ndern kann."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Anfragen f\xFCr CSS-Assets speichert Google einen Tag lang auf Ihren Servern, die haupts\xE4chlich au\xDFerhalb der EU angesiedelt sind. Das erm\xF6glicht uns, mithilfe eines Google-Stylesheets die Schriftarten zu nutzen.\xA0Ein Stylesheet ist eine Formatvorlage, \xFCber die man einfach und schnell z.B. das Design bzw. die Schriftart einer Webseite \xE4ndern kann."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 627,
       columnNumber: 9
     }
-  }, "Die Font-Dateien werden bei Google ein Jahr gespeichert. Google verfolgt damit das Ziel, die Ladezeit von Webseiten grunds\xE4tzlich zu verbessern. Wenn Millionen von Webseiten auf die gleichen Schriften verweisen, werden sie nach dem ersten Besuch zwischengespeichert und erscheinen sofort auf allen anderen sp\xE4ter besuchten Webseiten wieder. Manchmal aktualisiert Google Schriftdateien, um die Dateigr\xF6\xDFe zu reduzieren, die Abdeckung von Sprache zu erh\xF6hen und das Design zu verbessern."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
+  }, "Die Font-Dateien werden bei Google ein Jahr gespeichert. Google verfolgt damit das Ziel, die Ladezeit von Webseiten grunds\xE4tzlich zu verbessern. Wenn Millionen von Webseiten auf die gleichen Schriften verweisen, werden sie nach dem ersten Besuch zwischengespeichert und erscheinen sofort auf allen anderen sp\xE4ter besuchten Webseiten wieder. Manchmal aktualisiert Google Schriftdateien, um die Dateigr\xF6\xDFe zu reduzieren, die Abdeckung von Sprache zu erh\xF6hen und das Design zu verbessern."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -1786,14 +1786,14 @@ function Imprint() {
       lineNumber: 637,
       columnNumber: 9
     }
-  }, "Wie kann ich meine Daten l\xF6schen bzw. die Datenspeicherung verhindern?"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Wie kann ich meine Daten l\xF6schen bzw. die Datenspeicherung verhindern?"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 640,
       columnNumber: 9
     }
-  }, "Jene Daten, die Google f\xFCr einen Tag bzw. ein Jahr speichert k\xF6nnen nicht einfach gel\xF6scht werden. Die Daten werden beim Seitenaufruf automatisch an Google \xFCbermittelt. Um diese Daten vorzeitig l\xF6schen zu k\xF6nnen, m\xFCssen Sie den Google-Support auf", " ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+  }, "Jene Daten, die Google f\xFCr einen Tag bzw. ein Jahr speichert k\xF6nnen nicht einfach gel\xF6scht werden. Die Daten werden beim Seitenaufruf automatisch an Google \xFCbermittelt. Um diese Daten vorzeitig l\xF6schen zu k\xF6nnen, m\xFCssen Sie den Google-Support auf", " ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     class: "adsimple-321164724",
     href: "https://support.google.com/?hl=de&tid=321164724",
     target: "_blank",
@@ -1804,14 +1804,14 @@ function Imprint() {
       lineNumber: 645,
       columnNumber: 11
     }
-  }, "https://support.google.com/?hl=de&tid=321164724"), " ", "kontaktieren. Datenspeicherung verhindern Sie in diesem Fall nur, wenn Sie unsere Seite nicht besuchen."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "https://support.google.com/?hl=de&tid=321164724"), " ", "kontaktieren. Datenspeicherung verhindern Sie in diesem Fall nur, wenn Sie unsere Seite nicht besuchen."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 656,
       columnNumber: 9
     }
-  }, "Anders als andere Web-Schriften erlaubt uns Google uneingeschr\xE4nkten Zugriff auf alle Schriftarten. Wir k\xF6nnen also unlimitiert auf ein Meer an Schriftarten zugreifen und so das Optimum f\xFCr unsere Webseite rausholen. Mehr zu Google Fonts und weiteren Fragen finden Sie auf", " ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+  }, "Anders als andere Web-Schriften erlaubt uns Google uneingeschr\xE4nkten Zugriff auf alle Schriftarten. Wir k\xF6nnen also unlimitiert auf ein Meer an Schriftarten zugreifen und so das Optimum f\xFCr unsere Webseite rausholen. Mehr zu Google Fonts und weiteren Fragen finden Sie auf", " ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     class: "adsimple-321164724",
     href: "https://developers.google.com/fonts/faq?tid=321164724",
     target: "_blank",
@@ -1822,14 +1822,14 @@ function Imprint() {
       lineNumber: 661,
       columnNumber: 11
     }
-  }, "https://developers.google.com/fonts/faq?tid=321164724"), ". Dort geht zwar Google auf datenschutzrelevante Angelegenheiten ein, doch wirklich detaillierte Informationen \xFCber Datenspeicherung sind nicht enthalten. Es ist relativ schwierig (beinahe unm\xF6glich), von Google wirklich pr\xE4zise Informationen \xFCber gespeicherten Daten zu bekommen."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "https://developers.google.com/fonts/faq?tid=321164724"), ". Dort geht zwar Google auf datenschutzrelevante Angelegenheiten ein, doch wirklich detaillierte Informationen \xFCber Datenspeicherung sind nicht enthalten. Es ist relativ schwierig (beinahe unm\xF6glich), von Google wirklich pr\xE4zise Informationen \xFCber gespeicherten Daten zu bekommen."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 675,
       columnNumber: 9
     }
-  }, "Welche Daten grunds\xE4tzlich von Google erfasst werden und wof\xFCr diese Daten verwendet werden, k\xF6nnen Sie auch auf", " ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+  }, "Welche Daten grunds\xE4tzlich von Google erfasst werden und wof\xFCr diese Daten verwendet werden, k\xF6nnen Sie auch auf", " ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     class: "adsimple-321164724",
     href: "https://policies.google.com/privacy?hl=de&tid=321164724",
     target: "_blank",
@@ -1840,7 +1840,7 @@ function Imprint() {
       lineNumber: 678,
       columnNumber: 11
     }
-  }, "https://www.google.com/intl/de/policies/privacy/"), " ", "nachlesen."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
+  }, "https://www.google.com/intl/de/policies/privacy/"), " ", "nachlesen."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -1848,21 +1848,21 @@ function Imprint() {
       lineNumber: 688,
       columnNumber: 9
     }
-  }, "Automatische Datenspeicherung"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Automatische Datenspeicherung"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 689,
       columnNumber: 9
     }
-  }, "Wenn Sie heutzutage Webseiten besuchen, werden gewisse Informationen automatisch erstellt und gespeichert, so auch auf dieser Webseite."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Wenn Sie heutzutage Webseiten besuchen, werden gewisse Informationen automatisch erstellt und gespeichert, so auch auf dieser Webseite."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 693,
       columnNumber: 9
     }
-  }, "Wenn Sie unsere Webseite so wie jetzt gerade besuchen, speichert unser Webserver (Computer auf dem diese Webseite gespeichert ist) automatisch Daten wie"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
+  }, "Wenn Sie unsere Webseite so wie jetzt gerade besuchen, speichert unser Webserver (Computer auf dem diese Webseite gespeichert ist) automatisch Daten wie"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -1870,7 +1870,7 @@ function Imprint() {
       lineNumber: 698,
       columnNumber: 9
     }
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -1878,7 +1878,7 @@ function Imprint() {
       lineNumber: 699,
       columnNumber: 11
     }
-  }, "die Adresse (URL) der aufgerufenen Webseite"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+  }, "die Adresse (URL) der aufgerufenen Webseite"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -1886,7 +1886,7 @@ function Imprint() {
       lineNumber: 702,
       columnNumber: 11
     }
-  }, "Browser und Browserversion"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+  }, "Browser und Browserversion"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -1894,7 +1894,7 @@ function Imprint() {
       lineNumber: 703,
       columnNumber: 11
     }
-  }, "das verwendete Betriebssystem"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+  }, "das verwendete Betriebssystem"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -1902,7 +1902,7 @@ function Imprint() {
       lineNumber: 704,
       columnNumber: 11
     }
-  }, "die Adresse (URL) der zuvor besuchten Seite (Referrer URL)"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+  }, "die Adresse (URL) der zuvor besuchten Seite (Referrer URL)"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -1910,7 +1910,7 @@ function Imprint() {
       lineNumber: 707,
       columnNumber: 11
     }
-  }, "den Hostname und die IP-Adresse des Ger\xE4ts von welchem aus zugegriffen wird"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+  }, "den Hostname und die IP-Adresse des Ger\xE4ts von welchem aus zugegriffen wird"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -1918,21 +1918,21 @@ function Imprint() {
       lineNumber: 711,
       columnNumber: 11
     }
-  }, "Datum und Uhrzeit")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Datum und Uhrzeit")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 713,
       columnNumber: 9
     }
-  }, "in Dateien (Webserver-Logfiles)."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "in Dateien (Webserver-Logfiles)."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 714,
       columnNumber: 9
     }
-  }, "In der Regel werden Webserver-Logfiles zwei Wochen gespeichert und danach automatisch gel\xF6scht. Wir geben diese Daten nicht weiter, k\xF6nnen jedoch nicht ausschlie\xDFen, dass diese Daten beim Vorliegen von rechtswidrigem Verhalten eingesehen werden."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
+  }, "In der Regel werden Webserver-Logfiles zwei Wochen gespeichert und danach automatisch gel\xF6scht. Wir geben diese Daten nicht weiter, k\xF6nnen jedoch nicht ausschlie\xDFen, dass diese Daten beim Vorliegen von rechtswidrigem Verhalten eingesehen werden."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -1940,21 +1940,21 @@ function Imprint() {
       lineNumber: 720,
       columnNumber: 9
     }
-  }, "Google reCAPTCHA Datenschutzerkl\xE4rung"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Google reCAPTCHA Datenschutzerkl\xE4rung"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 723,
       columnNumber: 9
     }
-  }, "Unser oberstes Ziel ist es, dass unsere Webseite f\xFCr Sie und f\xFCr uns bestm\xF6glich gesch\xFCtzt und sicher ist. Um das zu gew\xE4hrleisten, verwenden wir Google reCAPTCHA der Firma Google Inc. (1600 Amphitheatre Parkway Mountain View, CA 94043, USA). Mit reCAPTCHA k\xF6nnen wir feststellen, ob Sie auch wirklich ein Mensch aus Fleisch und Blut sind und kein Roboter oder eine andere Spam-Software. Unter Spam verstehen wir jede, auf elektronischen Weg, unerw\xFCnschte Information, die uns ungefragter Weise zukommt. Bei den klassischen CAPTCHAS mussten Sie zur \xDCberpr\xFCfung meist Text- oder Bildr\xE4tsel l\xF6sen. Mit reCAPTCHA von Google m\xFCssen wir Sie meist nicht mit solchen R\xE4tseln bel\xE4stigen. Hier reicht es in den meisten F\xE4llen, wenn Sie einfach ein H\xE4kchen setzen und so best\xE4tigen, dass Sie kein Bot sind. Mit der neuen Invisible reCAPTCHA Version m\xFCssen Sie nicht mal mehr ein H\xE4kchen setzen. Wie das genau funktioniert und vor allem welche Daten daf\xFCr verwendet werden, erfahren Sie im Verlauf dieser Datenschutzerkl\xE4rung."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Unser oberstes Ziel ist es, dass unsere Webseite f\xFCr Sie und f\xFCr uns bestm\xF6glich gesch\xFCtzt und sicher ist. Um das zu gew\xE4hrleisten, verwenden wir Google reCAPTCHA der Firma Google Inc. (1600 Amphitheatre Parkway Mountain View, CA 94043, USA). Mit reCAPTCHA k\xF6nnen wir feststellen, ob Sie auch wirklich ein Mensch aus Fleisch und Blut sind und kein Roboter oder eine andere Spam-Software. Unter Spam verstehen wir jede, auf elektronischen Weg, unerw\xFCnschte Information, die uns ungefragter Weise zukommt. Bei den klassischen CAPTCHAS mussten Sie zur \xDCberpr\xFCfung meist Text- oder Bildr\xE4tsel l\xF6sen. Mit reCAPTCHA von Google m\xFCssen wir Sie meist nicht mit solchen R\xE4tseln bel\xE4stigen. Hier reicht es in den meisten F\xE4llen, wenn Sie einfach ein H\xE4kchen setzen und so best\xE4tigen, dass Sie kein Bot sind. Mit der neuen Invisible reCAPTCHA Version m\xFCssen Sie nicht mal mehr ein H\xE4kchen setzen. Wie das genau funktioniert und vor allem welche Daten daf\xFCr verwendet werden, erfahren Sie im Verlauf dieser Datenschutzerkl\xE4rung."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 741,
       columnNumber: 9
     }
-  }, "Rechtsgrundlage f\xFCr die Verwendung ist Artikel 6 (1) f (Rechtm\xE4\xDFigkeit der Verarbeitung), denn es besteht ein berechtigtes Interesse diese Webseite vor Bots und Spam-Software zu sch\xFCtzen."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
+  }, "Rechtsgrundlage f\xFCr die Verwendung ist Artikel 6 (1) f (Rechtm\xE4\xDFigkeit der Verarbeitung), denn es besteht ein berechtigtes Interesse diese Webseite vor Bots und Spam-Software zu sch\xFCtzen."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -1962,14 +1962,14 @@ function Imprint() {
       lineNumber: 746,
       columnNumber: 9
     }
-  }, "Was ist reCAPTCHA?"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Was ist reCAPTCHA?"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 747,
       columnNumber: 9
     }
-  }, "reCAPTCHA ist ein freier Captcha-Dienst von Google, der Webseiten vor Spam-Software und den Missbrauch durch nicht-menschliche Besucher sch\xFCtzt. Am h\xE4ufigsten wird dieser Dienst verwendet, wenn Sie Formulare im Internet ausf\xFCllen. Ein Captcha-Dienst ist ein automatischer Turing-Test, der sicherstellen soll, dass eine Handlung im Internet von einem Menschen und nicht von einem Bot vorgenommen wird. Im klassischen Turing-Test (benannt nach dem Informatiker Alan Turing) stellt ein Mensch die Unterscheidung zwischen Bot und Mensch fest. Bei Captchas \xFCbernimmt das auch der Computer bzw. ein Softwareprogramm. Klassische Captchas arbeiten mit kleinen Aufgaben, die f\xFCr Menschen leicht zu l\xF6sen sind, doch f\xFCr Maschinen erhebliche Schwierigkeiten aufweisen. Bei reCAPTCHA m\xFCssen Sie aktiv keine R\xE4tsel mehr l\xF6sen. Das Tool verwendet moderne Risikotechniken, um Menschen von Bots zu unterscheiden. Hier m\xFCssen Sie nur noch das Textfeld \u201EIch bin kein Roboter\u201C ankreuzen bzw. bei Invisible reCAPTCHA ist selbst das nicht mehr n\xF6tig. Bei reCAPTCHA wird ein JavaScript-Element in den Quelltext eingebunden und dann l\xE4uft das Tool im Hintergrund und analysiert Ihr Benutzerverhalten. Aus diesen Useraktionen berechnet die Software einen sogenannten Captcha-Score. Google berechnet mit diesem Score schon vor der Captcha-Eingabe wie hoch die Wahrscheinlichkeit ist, dass Sie ein Mensch sind. ReCAPTCHA bzw. Captchas im Allgemeinen kommen immer dann zum Einsatz, wenn Bots gewisse Aktionen (wie z.B. Registrierungen, Umfragen usw.) manipulieren oder missbrauchen k\xF6nnten."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
+  }, "reCAPTCHA ist ein freier Captcha-Dienst von Google, der Webseiten vor Spam-Software und den Missbrauch durch nicht-menschliche Besucher sch\xFCtzt. Am h\xE4ufigsten wird dieser Dienst verwendet, wenn Sie Formulare im Internet ausf\xFCllen. Ein Captcha-Dienst ist ein automatischer Turing-Test, der sicherstellen soll, dass eine Handlung im Internet von einem Menschen und nicht von einem Bot vorgenommen wird. Im klassischen Turing-Test (benannt nach dem Informatiker Alan Turing) stellt ein Mensch die Unterscheidung zwischen Bot und Mensch fest. Bei Captchas \xFCbernimmt das auch der Computer bzw. ein Softwareprogramm. Klassische Captchas arbeiten mit kleinen Aufgaben, die f\xFCr Menschen leicht zu l\xF6sen sind, doch f\xFCr Maschinen erhebliche Schwierigkeiten aufweisen. Bei reCAPTCHA m\xFCssen Sie aktiv keine R\xE4tsel mehr l\xF6sen. Das Tool verwendet moderne Risikotechniken, um Menschen von Bots zu unterscheiden. Hier m\xFCssen Sie nur noch das Textfeld \u201EIch bin kein Roboter\u201C ankreuzen bzw. bei Invisible reCAPTCHA ist selbst das nicht mehr n\xF6tig. Bei reCAPTCHA wird ein JavaScript-Element in den Quelltext eingebunden und dann l\xE4uft das Tool im Hintergrund und analysiert Ihr Benutzerverhalten. Aus diesen Useraktionen berechnet die Software einen sogenannten Captcha-Score. Google berechnet mit diesem Score schon vor der Captcha-Eingabe wie hoch die Wahrscheinlichkeit ist, dass Sie ein Mensch sind. ReCAPTCHA bzw. Captchas im Allgemeinen kommen immer dann zum Einsatz, wenn Bots gewisse Aktionen (wie z.B. Registrierungen, Umfragen usw.) manipulieren oder missbrauchen k\xF6nnten."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -1977,14 +1977,14 @@ function Imprint() {
       lineNumber: 773,
       columnNumber: 9
     }
-  }, "Warum verwenden wir reCAPTCHA auf unserer Website?"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Warum verwenden wir reCAPTCHA auf unserer Website?"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 776,
       columnNumber: 9
     }
-  }, "Wir wollen nur Menschen aus Fleisch und Blut auf unserer Seite begr\xFC\xDFen. Bots oder Spam-Software unterschiedlichster Art d\xFCrfen getrost zuhause bleiben. Darum setzen wir alle Hebel in Bewegung, uns zu sch\xFCtzen und die bestm\xF6gliche Benutzerfreundlichkeit f\xFCr Sie anzubieten. Aus diesem Grund verwenden wir Google reCAPTCHA der Firma Google. So k\xF6nnen wir uns ziemlich sicher sein, dass wir eine \u201Ebotfreie\u201C Webseite bleiben. Durch die Verwendung von reCAPTCHA werden Daten an Google \xFCbermittelt, die Google verwendet, um festzustellen, ob Sie auch wirklich ein Mensch sind. reCAPTCHA dient also der Sicherheit unserer Webseite und in weiterer Folge damit auch Ihrer Sicherheit. Zum Beispiel k\xF6nnte es ohne reCAPTCHA passieren, dass bei einer Registrierung ein Bot m\xF6glichst viele E-Mail-Adressen registriert, um im Anschluss Foren oder Blogs mit unerw\xFCnschten Werbeinhalten \u201Ezuzuspamen\u201C. Mit reCAPTCHA k\xF6nnen wir solche Botangriffe vermeiden."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
+  }, "Wir wollen nur Menschen aus Fleisch und Blut auf unserer Seite begr\xFC\xDFen. Bots oder Spam-Software unterschiedlichster Art d\xFCrfen getrost zuhause bleiben. Darum setzen wir alle Hebel in Bewegung, uns zu sch\xFCtzen und die bestm\xF6gliche Benutzerfreundlichkeit f\xFCr Sie anzubieten. Aus diesem Grund verwenden wir Google reCAPTCHA der Firma Google. So k\xF6nnen wir uns ziemlich sicher sein, dass wir eine \u201Ebotfreie\u201C Webseite bleiben. Durch die Verwendung von reCAPTCHA werden Daten an Google \xFCbermittelt, die Google verwendet, um festzustellen, ob Sie auch wirklich ein Mensch sind. reCAPTCHA dient also der Sicherheit unserer Webseite und in weiterer Folge damit auch Ihrer Sicherheit. Zum Beispiel k\xF6nnte es ohne reCAPTCHA passieren, dass bei einer Registrierung ein Bot m\xF6glichst viele E-Mail-Adressen registriert, um im Anschluss Foren oder Blogs mit unerw\xFCnschten Werbeinhalten \u201Ezuzuspamen\u201C. Mit reCAPTCHA k\xF6nnen wir solche Botangriffe vermeiden."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -1992,21 +1992,21 @@ function Imprint() {
       lineNumber: 793,
       columnNumber: 9
     }
-  }, "Welche Daten werden von reCAPTCHA gespeichert?"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Welche Daten werden von reCAPTCHA gespeichert?"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 796,
       columnNumber: 9
     }
-  }, "ReCAPTCHA sammelt personenbezogene Daten von Usern, um festzustellen, ob die Handlungen auf unserer Webseite auch wirklich von Menschen stammen. Es kann also die IP-Adresse und andere Daten, die Google f\xFCr den reCAPTCHA-Dienst ben\xF6tigt, an Google versendet werden. IP-Adressen werden innerhalb der Mitgliedstaaten der EU oder anderer Vertragsstaaten des Abkommens \xFCber den Europ\xE4ischen Wirtschaftsraum fast immer zuvor gek\xFCrzt, bevor die Daten auf einem Server in den USA landen. Die IP-Adresse wird nicht mit anderen Daten von Google kombiniert, sofern Sie nicht w\xE4hrend der Verwendung von reCAPTCHA mit Ihrem Google-Konto angemeldet sind. Zuerst pr\xFCft der reCAPTCHA-Algorithmus, ob auf Ihrem Browser schon Google-Cookies von anderen Google-Diensten (YouTube. Gmail usw.) platziert sind. Anschlie\xDFend setzt reCAPTCHA ein zus\xE4tzliches Cookie in Ihrem Browser und erfasst einen Schnappschuss Ihres Browserfensters."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "ReCAPTCHA sammelt personenbezogene Daten von Usern, um festzustellen, ob die Handlungen auf unserer Webseite auch wirklich von Menschen stammen. Es kann also die IP-Adresse und andere Daten, die Google f\xFCr den reCAPTCHA-Dienst ben\xF6tigt, an Google versendet werden. IP-Adressen werden innerhalb der Mitgliedstaaten der EU oder anderer Vertragsstaaten des Abkommens \xFCber den Europ\xE4ischen Wirtschaftsraum fast immer zuvor gek\xFCrzt, bevor die Daten auf einem Server in den USA landen. Die IP-Adresse wird nicht mit anderen Daten von Google kombiniert, sofern Sie nicht w\xE4hrend der Verwendung von reCAPTCHA mit Ihrem Google-Konto angemeldet sind. Zuerst pr\xFCft der reCAPTCHA-Algorithmus, ob auf Ihrem Browser schon Google-Cookies von anderen Google-Diensten (YouTube. Gmail usw.) platziert sind. Anschlie\xDFend setzt reCAPTCHA ein zus\xE4tzliches Cookie in Ihrem Browser und erfasst einen Schnappschuss Ihres Browserfensters."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 812,
       columnNumber: 9
     }
-  }, "Die folgende Liste von gesammelten Browser- und Userdaten, hat nicht den Anspruch auf Vollst\xE4ndigkeit. Vielmehr sind es Beispiele von Daten, die nach unserer Erkenntnis, von Google verarbeitet werden."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
+  }, "Die folgende Liste von gesammelten Browser- und Userdaten, hat nicht den Anspruch auf Vollst\xE4ndigkeit. Vielmehr sind es Beispiele von Daten, die nach unserer Erkenntnis, von Google verarbeitet werden."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -2014,7 +2014,7 @@ function Imprint() {
       lineNumber: 817,
       columnNumber: 9
     }
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -2022,7 +2022,7 @@ function Imprint() {
       lineNumber: 818,
       columnNumber: 11
     }
-  }, "Referrer URL (die Adresse der Seite von der der Besucher kommt)"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+  }, "Referrer URL (die Adresse der Seite von der der Besucher kommt)"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -2030,7 +2030,7 @@ function Imprint() {
       lineNumber: 821,
       columnNumber: 11
     }
-  }, "IP-Adresse (z.B. 256.123.123.1)"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+  }, "IP-Adresse (z.B. 256.123.123.1)"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -2038,7 +2038,7 @@ function Imprint() {
       lineNumber: 822,
       columnNumber: 11
     }
-  }, "Infos \xFCber das Betriebssystem\xA0(die Software, die den Betrieb Ihres Computers erm\xF6glicht. Bekannte Betriebssysteme sind Windows, Mac OS X oder Linux)"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+  }, "Infos \xFCber das Betriebssystem\xA0(die Software, die den Betrieb Ihres Computers erm\xF6glicht. Bekannte Betriebssysteme sind Windows, Mac OS X oder Linux)"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -2046,7 +2046,7 @@ function Imprint() {
       lineNumber: 827,
       columnNumber: 11
     }
-  }, "Cookies\xA0(kleine Textdateien, die Daten in Ihrem Browser speichern)"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+  }, "Cookies\xA0(kleine Textdateien, die Daten in Ihrem Browser speichern)"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -2054,7 +2054,7 @@ function Imprint() {
       lineNumber: 830,
       columnNumber: 11
     }
-  }, "Maus- und Keyboardverhalten\xA0(jede Aktion, die Sie mit der Maus oder der Tastatur ausf\xFChren wird gespeichert)"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+  }, "Maus- und Keyboardverhalten\xA0(jede Aktion, die Sie mit der Maus oder der Tastatur ausf\xFChren wird gespeichert)"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -2062,7 +2062,7 @@ function Imprint() {
       lineNumber: 834,
       columnNumber: 11
     }
-  }, "Datum und Spracheinstellungen\xA0(welche Sprache bzw. welches Datum Sie auf Ihrem PC voreingestellt haben wird gespeichert)"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+  }, "Datum und Spracheinstellungen\xA0(welche Sprache bzw. welches Datum Sie auf Ihrem PC voreingestellt haben wird gespeichert)"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -2070,7 +2070,7 @@ function Imprint() {
       lineNumber: 838,
       columnNumber: 11
     }
-  }, "Alle Javascript-Objekte\xA0(JavaScript ist eine Programmiersprache, die Webseiten erm\xF6glicht, sich an den User anzupassen. JavaScript-Objekte k\xF6nnen alle m\xF6glichen Daten unter einem Namen sammeln)"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+  }, "Alle Javascript-Objekte\xA0(JavaScript ist eine Programmiersprache, die Webseiten erm\xF6glicht, sich an den User anzupassen. JavaScript-Objekte k\xF6nnen alle m\xF6glichen Daten unter einem Namen sammeln)"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -2078,21 +2078,21 @@ function Imprint() {
       lineNumber: 844,
       columnNumber: 11
     }
-  }, "Bildschirmaufl\xF6sung\xA0(zeigt an aus wie vielen Pixeln die Bilddarstellung besteht)")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Bildschirmaufl\xF6sung\xA0(zeigt an aus wie vielen Pixeln die Bilddarstellung besteht)")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 849,
       columnNumber: 9
     }
-  }, "Unumstritten ist, dass Google diese Daten verwendet und analysiert noch bevor Sie auf das H\xE4kchen \u201EIch bin kein Roboter\u201C klicken. Bei der Invisible reCAPTCHA-Version f\xE4llt sogar das Ankreuzen weg und der ganze Erkennungsprozess l\xE4uft im Hintergrund ab. Wie viel und welche Daten Google genau speichert, erf\xE4hrt man von Google nicht im Detail."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Unumstritten ist, dass Google diese Daten verwendet und analysiert noch bevor Sie auf das H\xE4kchen \u201EIch bin kein Roboter\u201C klicken. Bei der Invisible reCAPTCHA-Version f\xE4llt sogar das Ankreuzen weg und der ganze Erkennungsprozess l\xE4uft im Hintergrund ab. Wie viel und welche Daten Google genau speichert, erf\xE4hrt man von Google nicht im Detail."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 856,
       columnNumber: 9
     }
-  }, "Folgende Cookies werden von reCAPTCHA verwendet: Hierbei beziehen wir uns auf die reCAPTCHA Demo-Version von Google unter", " ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+  }, "Folgende Cookies werden von reCAPTCHA verwendet: Hierbei beziehen wir uns auf die reCAPTCHA Demo-Version von Google unter", " ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     class: "adsimple-321164724",
     href: "https://www.google.com/recaptcha/api2/demo",
     target: "_blank",
@@ -2103,14 +2103,14 @@ function Imprint() {
       lineNumber: 859,
       columnNumber: 11
     }
-  }, "https://www.google.com/recaptcha/api2/demo"), ". All diese Cookies ben\xF6tigen zu Trackingzwecken eine eindeutige Kennung. Hier ist eine Liste an Cookies, die Google reCAPTCHA auf der Demo-Version gesetzt hat:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "https://www.google.com/recaptcha/api2/demo"), ". All diese Cookies ben\xF6tigen zu Trackingzwecken eine eindeutige Kennung. Hier ist eine Liste an Cookies, die Google reCAPTCHA auf der Demo-Version gesetzt hat:"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 871,
       columnNumber: 9
     }
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -2118,14 +2118,14 @@ function Imprint() {
       lineNumber: 872,
       columnNumber: 11
     }
-  }, "Name:"), " IDE", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+  }, "Name:"), " IDE", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 873,
       columnNumber: 11
     }
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -2133,14 +2133,14 @@ function Imprint() {
       lineNumber: 874,
       columnNumber: 11
     }
-  }, "Ablaufzeit:"), " nach einem Jahr", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+  }, "Ablaufzeit:"), " nach einem Jahr", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 876,
       columnNumber: 11
     }
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -2148,14 +2148,14 @@ function Imprint() {
       lineNumber: 877,
       columnNumber: 11
     }
-  }, "Verwendung:"), " Dieses Cookie wird von der Firma DoubleClick (geh\xF6rt auch Google) gesetzt, um die Aktionen eines Users auf der Webseite im Umgang mit Werbeanzeigen zu registrieren und zu melden. So kann die Werbewirksamkeit gemessen und entsprechende Optimierungsma\xDFnahmen getroffen werden. IDE wird in Browsern unter der Domain doubleclick.net gespeichert.", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+  }, "Verwendung:"), " Dieses Cookie wird von der Firma DoubleClick (geh\xF6rt auch Google) gesetzt, um die Aktionen eines Users auf der Webseite im Umgang mit Werbeanzeigen zu registrieren und zu melden. So kann die Werbewirksamkeit gemessen und entsprechende Optimierungsma\xDFnahmen getroffen werden. IDE wird in Browsern unter der Domain doubleclick.net gespeichert.", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 883,
       columnNumber: 11
     }
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -2163,14 +2163,14 @@ function Imprint() {
       lineNumber: 884,
       columnNumber: 11
     }
-  }, "Beispielwert:"), "\xA0WqTUmlnmv_qXyi_DGNPLESKnRNrpgXoy1K-pAZtAkMbHI-321164724", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Beispielwert:"), "\xA0WqTUmlnmv_qXyi_DGNPLESKnRNrpgXoy1K-pAZtAkMbHI-321164724", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 886,
       columnNumber: 11
     }
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -2178,14 +2178,14 @@ function Imprint() {
       lineNumber: 887,
       columnNumber: 13
     }
-  }, "Name:"), " 1P_JAR", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+  }, "Name:"), " 1P_JAR", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 888,
       columnNumber: 13
     }
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -2193,14 +2193,14 @@ function Imprint() {
       lineNumber: 889,
       columnNumber: 13
     }
-  }, "Ablaufzeit:"), " nach einem Monat", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+  }, "Ablaufzeit:"), " nach einem Monat", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 891,
       columnNumber: 13
     }
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -2208,14 +2208,14 @@ function Imprint() {
       lineNumber: 892,
       columnNumber: 13
     }
-  }, "Verwendung:"), " Dieses Cookie sammelt Statistiken zur Website-Nutzung und misst Conversions. Eine Conversion entsteht z.B., wenn ein User zu einem K\xE4ufer wird. Das Cookie wird auch verwendet, um Usern relevante Werbeanzeigen einzublenden. Weiters kann man mit dem Cookie vermeiden, dass ein User dieselbe Anzeige mehr als einmal zu Gesicht bekommt.", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+  }, "Verwendung:"), " Dieses Cookie sammelt Statistiken zur Website-Nutzung und misst Conversions. Eine Conversion entsteht z.B., wenn ein User zu einem K\xE4ufer wird. Das Cookie wird auch verwendet, um Usern relevante Werbeanzeigen einzublenden. Weiters kann man mit dem Cookie vermeiden, dass ein User dieselbe Anzeige mehr als einmal zu Gesicht bekommt.", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 899,
       columnNumber: 13
     }
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -2223,14 +2223,14 @@ function Imprint() {
       lineNumber: 900,
       columnNumber: 13
     }
-  }, "Beispielwert:"), "\xA02019-5-14-12"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Beispielwert:"), "\xA02019-5-14-12"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 903,
       columnNumber: 11
     }
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -2238,14 +2238,14 @@ function Imprint() {
       lineNumber: 904,
       columnNumber: 13
     }
-  }, "Name:"), " ANID", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+  }, "Name:"), " ANID", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 905,
       columnNumber: 13
     }
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -2253,14 +2253,14 @@ function Imprint() {
       lineNumber: 906,
       columnNumber: 13
     }
-  }, "Ablaufzeit:"), " nach 9 Monaten", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+  }, "Ablaufzeit:"), " nach 9 Monaten", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 908,
       columnNumber: 13
     }
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -2268,14 +2268,14 @@ function Imprint() {
       lineNumber: 909,
       columnNumber: 13
     }
-  }, "Verwendung:"), " Viele Infos konnten wir \xFCber dieses Cookie nicht in Erfahrung bringen. In der Datenschutzerkl\xE4rung von Google wird das Cookie im Zusammenhang mit \u201EWerbecookies\u201C wie z. B. \u201CDSID\u201D, \u201CFLC\u201D, \u201CAID\u201D, \u201CTAID\u201D erw\xE4hnt. ANID wird unter Domain google.com gespeichert.", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+  }, "Verwendung:"), " Viele Infos konnten wir \xFCber dieses Cookie nicht in Erfahrung bringen. In der Datenschutzerkl\xE4rung von Google wird das Cookie im Zusammenhang mit \u201EWerbecookies\u201C wie z. B. \u201CDSID\u201D, \u201CFLC\u201D, \u201CAID\u201D, \u201CTAID\u201D erw\xE4hnt. ANID wird unter Domain google.com gespeichert.", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 915,
       columnNumber: 13
     }
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -2283,14 +2283,14 @@ function Imprint() {
       lineNumber: 916,
       columnNumber: 13
     }
-  }, "Beispielwert:"), "\xA0U7j1v3dZa3211647240xgZFmiqWppRWKOr"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Beispielwert:"), "\xA0U7j1v3dZa3211647240xgZFmiqWppRWKOr"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 919,
       columnNumber: 11
     }
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -2298,14 +2298,14 @@ function Imprint() {
       lineNumber: 920,
       columnNumber: 13
     }
-  }, "Name:"), " CONSENT", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+  }, "Name:"), " CONSENT", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 921,
       columnNumber: 13
     }
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -2313,14 +2313,14 @@ function Imprint() {
       lineNumber: 922,
       columnNumber: 13
     }
-  }, "Ablaufzeit:"), " nach 19 Jahren", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+  }, "Ablaufzeit:"), " nach 19 Jahren", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 924,
       columnNumber: 13
     }
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -2328,14 +2328,14 @@ function Imprint() {
       lineNumber: 925,
       columnNumber: 13
     }
-  }, "Verwendung:"), " Das Cookie speichert den Status der Zustimmung eines Users zur Nutzung unterschiedlicher Services von Google. CONSENT dient auch der Sicherheit, um User zu \xFCberpr\xFCfen, Betr\xFCgereien von Anmeldeinformationen zu verhindern und Userdaten vor unbefugten Angriffen zu sch\xFCtzen.", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+  }, "Verwendung:"), " Das Cookie speichert den Status der Zustimmung eines Users zur Nutzung unterschiedlicher Services von Google. CONSENT dient auch der Sicherheit, um User zu \xFCberpr\xFCfen, Betr\xFCgereien von Anmeldeinformationen zu verhindern und Userdaten vor unbefugten Angriffen zu sch\xFCtzen.", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 931,
       columnNumber: 13
     }
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -2343,14 +2343,14 @@ function Imprint() {
       lineNumber: 932,
       columnNumber: 13
     }
-  }, "Beispielwert:\xA0"), "YES+AT.de+20150628-20-0"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Beispielwert:\xA0"), "YES+AT.de+20150628-20-0"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 935,
       columnNumber: 11
     }
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -2358,14 +2358,14 @@ function Imprint() {
       lineNumber: 936,
       columnNumber: 13
     }
-  }, "Name:"), " NID", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+  }, "Name:"), " NID", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 937,
       columnNumber: 13
     }
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -2373,14 +2373,14 @@ function Imprint() {
       lineNumber: 938,
       columnNumber: 13
     }
-  }, "Ablaufzeit:"), " nach 6 Monaten", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+  }, "Ablaufzeit:"), " nach 6 Monaten", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 940,
       columnNumber: 13
     }
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -2388,14 +2388,14 @@ function Imprint() {
       lineNumber: 941,
       columnNumber: 13
     }
-  }, "Verwendung:"), " NID wird von Google verwendet, um Werbeanzeigen an Ihre Google-Suche anzupassen. Mit Hilfe des Cookies \u201Eerinnert\u201C sich Google an Ihre meist eingegebenen Suchanfragen oder Ihre fr\xFChere Interaktion mit Anzeigen. So bekommen Sie immer ma\xDFgeschneiderte Werbeanzeigen. Das Cookie enth\xE4lt eine einzigartige ID, die Google benutzt um pers\xF6nliche Einstellungen des Users f\xFCr Werbezwecke zu sammeln.", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+  }, "Verwendung:"), " NID wird von Google verwendet, um Werbeanzeigen an Ihre Google-Suche anzupassen. Mit Hilfe des Cookies \u201Eerinnert\u201C sich Google an Ihre meist eingegebenen Suchanfragen oder Ihre fr\xFChere Interaktion mit Anzeigen. So bekommen Sie immer ma\xDFgeschneiderte Werbeanzeigen. Das Cookie enth\xE4lt eine einzigartige ID, die Google benutzt um pers\xF6nliche Einstellungen des Users f\xFCr Werbezwecke zu sammeln.", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 948,
       columnNumber: 13
     }
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -2403,14 +2403,14 @@ function Imprint() {
       lineNumber: 949,
       columnNumber: 13
     }
-  }, "Beispielwert:"), " ", "0WmuWqy321164724zILzqV_nmt3sDXwPeM5Q"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Beispielwert:"), " ", "0WmuWqy321164724zILzqV_nmt3sDXwPeM5Q"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 952,
       columnNumber: 11
     }
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -2418,14 +2418,14 @@ function Imprint() {
       lineNumber: 953,
       columnNumber: 13
     }
-  }, "Name:"), " DV", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+  }, "Name:"), " DV", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 954,
       columnNumber: 13
     }
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -2433,14 +2433,14 @@ function Imprint() {
       lineNumber: 955,
       columnNumber: 13
     }
-  }, "Ablaufzeit:"), " nach 10 Minuten", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+  }, "Ablaufzeit:"), " nach 10 Minuten", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 957,
       columnNumber: 13
     }
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -2448,14 +2448,14 @@ function Imprint() {
       lineNumber: 958,
       columnNumber: 13
     }
-  }, "Verwendung:"), " Sobald Sie das \u201EIch bin kein Roboter\u201C-H\xE4kchen angekreuzt haben, wird dieses Cookie gesetzt. Das Cookie wird von Google Analytics f\xFCr personalisierte Werbung verwendet. DV sammelt Informationen in anonymisierter Form und wird weiters benutzt, um User-Unterscheidungen treffen zu k\xF6nnen.", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+  }, "Verwendung:"), " Sobald Sie das \u201EIch bin kein Roboter\u201C-H\xE4kchen angekreuzt haben, wird dieses Cookie gesetzt. Das Cookie wird von Google Analytics f\xFCr personalisierte Werbung verwendet. DV sammelt Informationen in anonymisierter Form und wird weiters benutzt, um User-Unterscheidungen treffen zu k\xF6nnen.", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 964,
       columnNumber: 13
     }
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -2463,14 +2463,14 @@ function Imprint() {
       lineNumber: 965,
       columnNumber: 13
     }
-  }, "Beispielwert:"), " ", "gEAABBCjJMXcI0dSAAAANbqc321164724", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Beispielwert:"), " ", "gEAABBCjJMXcI0dSAAAANbqc321164724", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 967,
       columnNumber: 13
     }
-  }, "Anmerkung:\xA0Diese Aufz\xE4hlung kann keinen Anspruch auf Vollst\xE4ndigkeit erheben, da Google erfahrungsgem\xE4\xDF die Wahl ihrer Cookies immer wieder auch ver\xE4ndert."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
+  }, "Anmerkung:\xA0Diese Aufz\xE4hlung kann keinen Anspruch auf Vollst\xE4ndigkeit erheben, da Google erfahrungsgem\xE4\xDF die Wahl ihrer Cookies immer wieder auch ver\xE4ndert."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -2478,14 +2478,14 @@ function Imprint() {
       lineNumber: 972,
       columnNumber: 13
     }
-  }, "Wie lange und wo werden die Daten gespeichert?"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Wie lange und wo werden die Daten gespeichert?"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 975,
       columnNumber: 13
     }
-  }, "Durch das Einf\xFCgen von reCAPTCHA werden Daten von Ihnen auf den Google-Server \xFCbertragen. Wo genau diese Daten gespeichert werden, stellt Google, selbst nach wiederholtem Nachfragen, nicht klar dar. Ohne eine Best\xE4tigung von Google erhalten zu haben, ist davon auszugehen, dass Daten wie Mausinteraktion, Verweildauer auf der Webseite oder Spracheinstellungen auf den europ\xE4ischen oder amerikanischen Google-Servern gespeichert werden. Die IP-Adresse, die Ihr Browser an Google \xFCbermittelt, wird grunds\xE4tzlich nicht mit anderen Google-Daten aus weiteren Google-Diensten zusammengef\xFChrt. Wenn Sie allerdings w\xE4hrend der Nutzung des reCAPTCHA-Plug-ins bei Ihrem Google-Konto angemeldet sind, werden die Daten zusammengef\xFChrt.", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
+  }, "Durch das Einf\xFCgen von reCAPTCHA werden Daten von Ihnen auf den Google-Server \xFCbertragen. Wo genau diese Daten gespeichert werden, stellt Google, selbst nach wiederholtem Nachfragen, nicht klar dar. Ohne eine Best\xE4tigung von Google erhalten zu haben, ist davon auszugehen, dass Daten wie Mausinteraktion, Verweildauer auf der Webseite oder Spracheinstellungen auf den europ\xE4ischen oder amerikanischen Google-Servern gespeichert werden. Die IP-Adresse, die Ihr Browser an Google \xFCbermittelt, wird grunds\xE4tzlich nicht mit anderen Google-Daten aus weiteren Google-Diensten zusammengef\xFChrt. Wenn Sie allerdings w\xE4hrend der Nutzung des reCAPTCHA-Plug-ins bei Ihrem Google-Konto angemeldet sind, werden die Daten zusammengef\xFChrt.", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -2493,7 +2493,7 @@ function Imprint() {
       lineNumber: 988,
       columnNumber: 15
     }
-  }, "\xA0"), "Daf\xFCr gelten die abweichenden Datenschutzbestimmungen der Firma Google."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
+  }, "\xA0"), "Daf\xFCr gelten die abweichenden Datenschutzbestimmungen der Firma Google."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
     class: "adsimple-321164724",
     __self: this,
     __source: {
@@ -2501,14 +2501,14 @@ function Imprint() {
       lineNumber: 991,
       columnNumber: 13
     }
-  }, "Wie kann ich meine Daten l\xF6schen bzw. die Datenspeicherung verhindern?"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Wie kann ich meine Daten l\xF6schen bzw. die Datenspeicherung verhindern?"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 995,
       columnNumber: 13
     }
-  }, "Wenn Sie wollen, dass \xFCber Sie und \xFCber Ihr Verhalten keine Daten an Google \xFCbermittelt werden, m\xFCssen Sie sich, bevor Sie unsere Webseite besuchen bzw. die reCAPTCHA-Software verwenden, bei Google vollkommen ausloggen und alle Google-Cookies l\xF6schen.\xA0Grunds\xE4tzlich werden die Daten sobald Sie unsere Seite aufrufen automatisch an Google \xFCbermittelt. Um diese Daten wieder zu l\xF6schen, m\xFCssen Sie den Google-Support auf\xA0", " ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+  }, "Wenn Sie wollen, dass \xFCber Sie und \xFCber Ihr Verhalten keine Daten an Google \xFCbermittelt werden, m\xFCssen Sie sich, bevor Sie unsere Webseite besuchen bzw. die reCAPTCHA-Software verwenden, bei Google vollkommen ausloggen und alle Google-Cookies l\xF6schen.\xA0Grunds\xE4tzlich werden die Daten sobald Sie unsere Seite aufrufen automatisch an Google \xFCbermittelt. Um diese Daten wieder zu l\xF6schen, m\xFCssen Sie den Google-Support auf\xA0", " ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     class: "adsimple-321164724",
     href: "https://support.google.com/?hl=de&tid=321164724",
     target: "_blank",
@@ -2519,21 +2519,21 @@ function Imprint() {
       lineNumber: 1003,
       columnNumber: 15
     }
-  }, "https://support.google.com/?hl=de&tid=321164724"), " ", "kontaktieren."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "https://support.google.com/?hl=de&tid=321164724"), " ", "kontaktieren."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 1013,
       columnNumber: 13
     }
-  }, "Wenn Sie also unsere Webseite verwenden, erkl\xE4ren Sie sich einverstanden, dass Google LLC und deren Vertreter automatisch Daten erheben, bearbeiten und nutzen."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Wenn Sie also unsere Webseite verwenden, erkl\xE4ren Sie sich einverstanden, dass Google LLC und deren Vertreter automatisch Daten erheben, bearbeiten und nutzen."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 1018,
       columnNumber: 13
     }
-  }, "Etwas mehr \xFCber reCAPTCHA erfahren Sie auf der Webentwickler-Seite von Google auf", " ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+  }, "Etwas mehr \xFCber reCAPTCHA erfahren Sie auf der Webentwickler-Seite von Google auf", " ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     class: "adsimple-321164724",
     href: "https://developers.google.com/recaptcha/",
     target: "_blank",
@@ -2544,7 +2544,7 @@ function Imprint() {
       lineNumber: 1021,
       columnNumber: 15
     }
-  }, "https://developers.google.com/recaptcha/"), ". Google geht hier zwar auf die technische Entwicklung der reCAPTCHA n\xE4her ein, doch genaue Informationen \xFCber Datenspeicherung und datenschutzrelevanten Themen sucht man auch dort vergeblich. Eine gute \xDCbersicht \xFCber die grunds\xE4tzliche Verwendung von Daten bei Google finden Sie in der hauseigenen Datenschutzerkl\xE4rung auf", " ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+  }, "https://developers.google.com/recaptcha/"), ". Google geht hier zwar auf die technische Entwicklung der reCAPTCHA n\xE4her ein, doch genaue Informationen \xFCber Datenspeicherung und datenschutzrelevanten Themen sucht man auch dort vergeblich. Eine gute \xDCbersicht \xFCber die grunds\xE4tzliche Verwendung von Daten bei Google finden Sie in der hauseigenen Datenschutzerkl\xE4rung auf", " ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     class: "adsimple-321164724",
     href: "https://policies.google.com/privacy?hl=de&tid=321164724",
     target: "_blank",
@@ -2555,7 +2555,7 @@ function Imprint() {
       lineNumber: 1035,
       columnNumber: 15
     }
-  }, "https://www.google.com/intl/de/policies/privacy/"), "."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "https://www.google.com/intl/de/policies/privacy/"), "."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     style: {
       marginTop: "15px"
     },
@@ -2565,7 +2565,7 @@ function Imprint() {
       lineNumber: 1045,
       columnNumber: 13
     }
-  }, "Quelle: Erstellt\xA0mit dem\xA0", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+  }, "Quelle: Erstellt\xA0mit dem\xA0", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     title: "Datenschutz Generator Deutschland",
     href: "https://www.adsimple.de/datenschutz-generator/",
     target: "_blank",
@@ -2579,7 +2579,7 @@ function Imprint() {
       lineNumber: 1047,
       columnNumber: 15
     }
-  }, "Datenschutz Generator"), " ", "von AdSimple\xA0in Kooperation mit", " ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+  }, "Datenschutz Generator"), " ", "von AdSimple\xA0in Kooperation mit", " ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     href: "https://www.hashtagbeauty.de",
     target: "_blank",
     rel: "follow",
@@ -2612,14 +2612,14 @@ __webpack_require__.r(__webpack_exports__);
 var _jsxFileName = "/home/markus/projects/beck/components/articles/Intro.js";
 
 function Intro() {
-  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 3,
       columnNumber: 5
     }
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "major",
     __self: this,
     __source: {
@@ -2627,63 +2627,63 @@ function Intro() {
       lineNumber: 4,
       columnNumber: 7
     }
-  }, "Intro"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Intro"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 5,
       columnNumber: 7
     }
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 6,
       columnNumber: 9
     }
-  }, "Why do you \u2764 programming?"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+  }, "Why do you \u2764 programming?"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 7,
       columnNumber: 9
     }
-  }), "It\u2019s those moments when a design, a cleverly CSS template, the customers love to use it and feel impressed by this \"art\", this warm fuzzy feeling that comes over you makes it all worth it. To know that this piece of \"software craftmanship\" is about to go live and the world now has a little piece of your next cloud native application, whether they know it or not. It gives you one of these good days at work and ... the fact, it's high scalability and never slow down business growth.", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+  }), "It\u2019s those moments when a design, a cleverly CSS template, the customers love to use it and feel impressed by this \"art\", this warm fuzzy feeling that comes over you makes it all worth it. To know that this piece of \"software craftmanship\" is about to go live and the world now has a little piece of your next cloud native application, whether they know it or not. It gives you one of these good days at work and ... the fact, it's high scalability and never slow down business growth.", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 15,
       columnNumber: 9
     }
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 16,
       columnNumber: 9
     }
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 17,
       columnNumber: 9
     }
-  }, "How do you maintaine your work-life balance?"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+  }, "How do you maintaine your work-life balance?"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 18,
       columnNumber: 9
     }
-  }), "I love to play table tennis and take pictures."), "By the way, check out my awesome photos.", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }), "I love to play table tennis and take pictures."), "By the way, check out my awesome photos.", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 20,
       columnNumber: 47
     }
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
+  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "image main",
     __self: this,
     __source: {
@@ -2691,7 +2691,7 @@ function Intro() {
       lineNumber: 21,
       columnNumber: 7
     }
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     src: "/static/images/pic01.jpg",
     alt: "",
     __self: this,
@@ -2700,7 +2700,7 @@ function Intro() {
       lineNumber: 22,
       columnNumber: 9
     }
-  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "image main",
     __self: this,
     __source: {
@@ -2708,7 +2708,7 @@ function Intro() {
       lineNumber: 24,
       columnNumber: 7
     }
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     src: "/static/images/bee.jpg",
     alt: "",
     __self: this,
@@ -2717,7 +2717,7 @@ function Intro() {
       lineNumber: 25,
       columnNumber: 9
     }
-  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "image main",
     __self: this,
     __source: {
@@ -2725,7 +2725,7 @@ function Intro() {
       lineNumber: 27,
       columnNumber: 7
     }
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     src: "/static/images/winter.jpg",
     alt: "",
     __self: this,
@@ -2734,7 +2734,7 @@ function Intro() {
       lineNumber: 28,
       columnNumber: 9
     }
-  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "image main",
     __self: this,
     __source: {
@@ -2742,7 +2742,7 @@ function Intro() {
       lineNumber: 30,
       columnNumber: 7
     }
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     src: "/static/images/bg2.jpg",
     alt: "",
     __self: this,
@@ -2776,14 +2776,14 @@ var _jsxFileName = "/home/markus/projects/beck/components/articles/Work.js";
 
 
 function Work() {
-  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 5,
       columnNumber: 5
     }
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "major",
     __self: this,
     __source: {
@@ -2791,56 +2791,56 @@ function Work() {
       lineNumber: 6,
       columnNumber: 7
     }
-  }, "Work"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Work"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 7,
       columnNumber: 7
     }
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 8,
       columnNumber: 9
     }
-  }, "I was born 1989 in a small city near Munich - Germany and working as a programmer since 2012."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "I was born 1989 in a small city near Munich - Germany and working as a programmer since 2012."), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 12,
       columnNumber: 9
     }
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 13,
       columnNumber: 11
     }
-  }, "To reach your goals and wishes in life, i believe:")), "You are your greatest enemy, and you should always aim to be a better person than you are now. So the most important factor in becoming a good developer lies within yourself. Anyone with an interest in solving problems and use IT when it's necessary, can be a \"good\u201D programmer.", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+  }, "To reach your goals and wishes in life, i believe:")), "You are your greatest enemy, and you should always aim to be a better person than you are now. So the most important factor in becoming a good developer lies within yourself. Anyone with an interest in solving problems and use IT when it's necessary, can be a \"good\u201D programmer.", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 19,
       columnNumber: 9
     }
-  }), " No one, not even the best mentor, can help you, if you don't", " ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
+  }), " No one, not even the best mentor, can help you, if you don't", " ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 20,
       columnNumber: 9
     }
-  }, "really"), " want to.", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+  }, "really"), " want to.", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 21,
       columnNumber: 9
     }
-  })), "Test yourself with the", " ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
+  })), "Test yourself with the", " ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
     href: "https://karrierebibel.de/ikigai-modell/",
     style: {
       fontWeight: "bold",
@@ -2852,7 +2852,7 @@ function Work() {
       lineNumber: 24,
       columnNumber: 7
     }
-  }, "ikigai- modell"), ".", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
+  }, "ikigai- modell"), ".", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
     className: "image main",
     __self: this,
     __source: {
@@ -2860,7 +2860,7 @@ function Work() {
       lineNumber: 31,
       columnNumber: 7
     }
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     src: "/static/images/pic02.jpg",
     alt: "",
     __self: this,
@@ -2869,14 +2869,14 @@ function Work() {
       lineNumber: 32,
       columnNumber: 9
     }
-  })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 34,
       columnNumber: 7
     }
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", {
     __self: this,
     __source: {
       fileName: _jsxFileName,
@@ -20625,28 +20625,28 @@ var MyApp = /*#__PURE__*/function (_ref) {
       var _this$props = this.props,
           Component = _this$props.Component,
           pageProps = _this$props.pageProps;
-      return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, {
+      return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, {
         __self: this,
         __source: {
           fileName: _jsxFileName,
           lineNumber: 83,
           columnNumber: 7
         }
-      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("title", {
+      }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("title", {
         __self: this,
         __source: {
           fileName: _jsxFileName,
           lineNumber: 84,
           columnNumber: 9
         }
-      }, "mib-markus"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(Component, _extends({}, pageProps, {
+      }, "mib-markus"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(Component, _extends({}, pageProps, {
         __self: this,
         __source: {
           fileName: _jsxFileName,
           lineNumber: 85,
           columnNumber: 9
         }
-      })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "body ".concat(this.state.loading, " ").concat(this.state.isArticleVisible ? "is-article-visible" : ""),
         __self: this,
         __source: {
@@ -20654,7 +20654,7 @@ var MyApp = /*#__PURE__*/function (_ref) {
           lineNumber: 86,
           columnNumber: 9
         }
-      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         id: "wrapper",
         __self: this,
         __source: {
@@ -20662,7 +20662,7 @@ var MyApp = /*#__PURE__*/function (_ref) {
           lineNumber: 91,
           columnNumber: 11
         }
-      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_Header__WEBPACK_IMPORTED_MODULE_2__["default"], {
+      }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_Header__WEBPACK_IMPORTED_MODULE_2__["default"], {
         onOpenArticle: this.handleOpenArticle,
         timeout: this.state.timeout,
         __self: this,
@@ -20671,7 +20671,7 @@ var MyApp = /*#__PURE__*/function (_ref) {
           lineNumber: 92,
           columnNumber: 13
         }
-      }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_Main__WEBPACK_IMPORTED_MODULE_3__["default"], {
+      }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_Main__WEBPACK_IMPORTED_MODULE_3__["default"], {
         isArticleVisible: this.state.isArticleVisible,
         timeout: this.state.timeout,
         articleTimeout: this.state.articleTimeout,
@@ -20683,7 +20683,7 @@ var MyApp = /*#__PURE__*/function (_ref) {
           lineNumber: 96,
           columnNumber: 13
         }
-      }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_Footer__WEBPACK_IMPORTED_MODULE_4__["default"], {
+      }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_Footer__WEBPACK_IMPORTED_MODULE_4__["default"], {
         timeout: this.state.timeout,
         __self: this,
         __source: {
@@ -20691,7 +20691,7 @@ var MyApp = /*#__PURE__*/function (_ref) {
           lineNumber: 103,
           columnNumber: 13
         }
-      })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         id: "bg",
         __self: this,
         __source: {
