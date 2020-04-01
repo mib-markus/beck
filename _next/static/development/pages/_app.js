@@ -97,10 +97,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var _public_static_images_LogoMakr_9xm1vx_png__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../public/static/images/LogoMakr_9xm1vx.png */ "./public/static/images/LogoMakr_9xm1vx.png");
+/* harmony import */ var _public_static_images_LogoMakr_9xm1vx_png__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_public_static_images_LogoMakr_9xm1vx_png__WEBPACK_IMPORTED_MODULE_3__);
 
 
 var _this = undefined,
     _jsxFileName = "/home/markus/projects/beck/components/Header.js";
+
 
 
 
@@ -115,7 +118,7 @@ var Header = function Header(props) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 5,
+      lineNumber: 6,
       columnNumber: 3
     }
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_2___default.a, {
@@ -123,17 +126,17 @@ var Header = function Header(props) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 6,
+      lineNumber: 7,
       columnNumber: 5
     }
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     className: "logo",
-    src: "/static/images/LogoMakr_9xm1vx.png",
+    src: _public_static_images_LogoMakr_9xm1vx_png__WEBPACK_IMPORTED_MODULE_3___default.a,
     alt: "",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 7,
+      lineNumber: 8,
       columnNumber: 7
     }
   })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -141,7 +144,7 @@ var Header = function Header(props) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 13,
+      lineNumber: 14,
       columnNumber: 5
     }
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -149,38 +152,59 @@ var Header = function Header(props) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 14,
+      lineNumber: 15,
       columnNumber: 7
     }
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 15,
+      lineNumber: 16,
       columnNumber: 9
     }
   }, "Markus Beck"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 16,
+      lineNumber: 17,
       columnNumber: 9
     }
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 17,
+      lineNumber: 18,
       columnNumber: 9
     }
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 18,
+      lineNumber: 19,
       columnNumber: 9
     }
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+  }, "My Passions are Event Storming & ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 20,
+      columnNumber: 44
+    }
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 21,
+      columnNumber: 11
+    }
+  }), "Designing Event Streaming Systems.", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 23,
+      columnNumber: 11
+    }
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
@@ -194,25 +218,32 @@ var Header = function Header(props) {
       lineNumber: 25,
       columnNumber: 11
     }
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+    __self: _this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 26,
+      columnNumber: 11
+    }
   }), "I \u2764 coding as a Cloud Solution Architect."))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("nav", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 29,
+      lineNumber: 30,
       columnNumber: 5
     }
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 30,
+      lineNumber: 31,
       columnNumber: 7
     }
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 31,
+      lineNumber: 32,
       columnNumber: 9
     }
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
@@ -223,14 +254,14 @@ var Header = function Header(props) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 32,
+      lineNumber: 33,
       columnNumber: 11
     }
   }, "Intro")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 41,
+      lineNumber: 42,
       columnNumber: 9
     }
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
@@ -241,14 +272,14 @@ var Header = function Header(props) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 42,
+      lineNumber: 43,
       columnNumber: 11
     }
   }, "Work")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 51,
+      lineNumber: 52,
       columnNumber: 9
     }
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
@@ -259,14 +290,14 @@ var Header = function Header(props) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 52,
+      lineNumber: 53,
       columnNumber: 11
     }
   }, "About")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 61,
+      lineNumber: 62,
       columnNumber: 9
     }
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
@@ -277,7 +308,7 @@ var Header = function Header(props) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 62,
+      lineNumber: 63,
       columnNumber: 11
     }
   }, "Contact")))));
@@ -20698,6 +20729,17 @@ var MyApp = /*#__PURE__*/function (_ref) {
     })(typeof __webpack_exports__ !== 'undefined' ? __webpack_exports__.default : (module.exports.default || module.exports), "/_app")
   
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./../node_modules/webpack/buildin/harmony-module.js */ "./node_modules/webpack/buildin/harmony-module.js")(module)))
+
+/***/ }),
+
+/***/ "./public/static/images/LogoMakr_9xm1vx.png":
+/*!**************************************************!*\
+  !*** ./public/static/images/LogoMakr_9xm1vx.png ***!
+  \**************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = "/_next/static/images/LogoMakr_9xm1vx-56f1b06324b7ca10231e0f4f13107f6a.png";
 
 /***/ }),
 
