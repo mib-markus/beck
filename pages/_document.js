@@ -7,7 +7,7 @@ export default class MyDocument extends Document {
     return (
       <html lang="eng">
         <Head>
-          <link rel="shortcut icon" href="/favicon.ico" />
+          <link rel="shortcut icon" href="/beck/favicon.ico" />
           <link
             href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,600,600i"
             rel="stylesheet"
