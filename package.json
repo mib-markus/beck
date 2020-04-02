@@ -23,6 +23,7 @@
     "node-sass": "latest"
   },
   "devDependencies": {
-    "babel-plugin-transform-define": "latest"
+    "babel-plugin-transform-define": "latest",
+    "gh-pages": "latest"
   }
 }
