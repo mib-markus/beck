@@ -43,7 +43,7 @@ export default function Imprint() {
         <img src="/beck/images/pic03.jpg" alt="" />
       </span>
       <p>
-        <h2 class="adsimple-321164724">EU-Streitschlichtung</h2>
+        <h3 class="adsimple-321164724">EU-Streitschlichtung</h3>
         <p>
           Gemäß Verordnung über Online-Streitbeilegung in
           Verbraucherangelegenheiten (ODR-Verordnung) möchten wir Sie über die
@@ -67,7 +67,7 @@ export default function Imprint() {
           verpflichtet sind, an Streitbeilegungsverfahren vor einer
           Verbraucherschlichtungsstelle teilzunehmen.
         </p>
-        <h2 class="adsimple-321164724">Haftung für Inhalte dieser Website</h2>
+        <h3 class="adsimple-321164724">Haftung für Inhalte dieser Website</h3>
         <p>
           Wir entwickeln die Inhalte dieser Webseite ständig weiter und bemühen
           uns korrekte und aktuelle Informationen bereitzustellen. Laut
@@ -102,7 +102,7 @@ export default function Imprint() {
           rechtswidrigen Inhalte entfernen können. Sie finden die Kontaktdaten
           im Impressum.
         </p>
-        <h2 class="adsimple-321164724">Haftung für Links auf dieser Website</h2>
+        <h3 class="adsimple-321164724">Haftung für Links auf dieser Website</h3>
         <p>
           Unsere Webseite enthält Links zu anderen Webseiten für deren Inhalt
           wir nicht verantwortlich sind. Haftung für verlinkte Websites besteht
@@ -115,7 +115,7 @@ export default function Imprint() {
           Wenn Ihnen rechtswidrige Links auf unserer Website auffallen, bitte
           wir Sie uns zu kontaktieren. Sie finden die Kontaktdaten im Impressum.
         </p>
-        <h2 class="adsimple-321164724">Urheberrechtshinweis</h2>
+        <h3 class="adsimple-321164724">Urheberrechtshinweis</h3>
         <p>
           Alle Inhalte dieser Webseite (Bilder, Fotos, Texte, Videos)
           unterliegen dem Urheberrecht der Bundesrepublik Deutschland. Bitte
@@ -128,7 +128,7 @@ export default function Imprint() {
           Sollten Sie auf dieser Webseite Inhalte finden, die das Urheberrecht
           verletzen, bitten wir Sie uns zu kontaktieren.
         </p>
-        <h2 class="adsimple-321164724">Bildernachweis</h2>
+        <h3 class="adsimple-321164724">Bildernachweis</h3>
         <p>
           Die Bilder, Fotos und Grafiken auf dieser Webseite sind
           urheberrechtlich geschützt.
@@ -139,12 +139,12 @@ export default function Imprint() {
         <ul class="adsimple-321164724">
           <li class="adsimple-321164724">Fotograf Markus Beck</li>
         </ul>
-        <h2 class="adsimple-321164724">Datenschutzerklärung</h2>
+        <h3 class="adsimple-321164724">Datenschutzerklärung</h3>
         <p>
           Datenschutzbeauftragter : Markus Beck
           <br />
         </p>
-        <h2 class="adsimple-321164724">Datenschutz</h2>
+        <h3 class="adsimple-321164724">Datenschutz</h3>
         <p>
           Wir haben diese Datenschutzerklärung (Fassung 25.03.2020-321164724)
           verfasst, um Ihnen gemäß der Vorgaben der{" "}
@@ -165,7 +165,7 @@ export default function Imprint() {
           technisch klingen, wir haben uns bei der Erstellung jedoch bemüht die
           wichtigsten Dinge so einfach und klar wie möglich zu beschreiben.
         </p>
-        <h2 class="adsimple-321164724">Cookies</h2>
+        <h3 class="adsimple-321164724">Cookies</h3>
         <p>
           Unsere Website verwendet HTTP-Cookies um nutzerspezifische Daten zu
           speichern.
@@ -389,7 +389,7 @@ export default function Imprint() {
           , dem Request for Comments der Internet Engineering Task Force (IETF)
           namens &#8220;HTTP State Management Mechanism&#8221;.
         </p>
-        <h2 class="adsimple-321164724">Speicherung persönlicher Daten</h2>
+        <h3 class="adsimple-321164724">Speicherung persönlicher Daten</h3>
         <p>
           Persönliche Daten, die Sie uns auf dieser Website elektronisch
           übermitteln, wie zum Beispiel Name, E-Mail-Adresse, Adresse oder
@@ -477,7 +477,7 @@ export default function Imprint() {
           </a>{" "}
           wenden.
         </p>
-        <h2 class="adsimple-321164724">Auswertung des Besucherverhaltens</h2>
+        <h3 class="adsimple-321164724">Auswertung des Besucherverhaltens</h3>
         <p>
           In der folgenden Datenschutzerklärung informieren wir Sie darüber, ob
           und wie wir Daten Ihres Besuchs dieser Website auswerten. Die
@@ -489,7 +489,7 @@ export default function Imprint() {
           Mehr über Möglichkeiten dieser Auswertung der Besuchsdaten zu
           widersprechen erfahren Sie in der folgenden Datenschutzerklärung.
         </p>
-        <h2 class="adsimple-321164724">TLS-Verschlüsselung mit https</h2>
+        <h3 class="adsimple-321164724">TLS-Verschlüsselung mit https</h3>
         <p>
           Wir verwenden https um Daten abhörsicher im Internet zu übertragen
           (Datenschutz durch Technikgestaltung{" "}
@@ -685,7 +685,7 @@ export default function Imprint() {
           </a>{" "}
           nachlesen.
         </p>
-        <h2 class="adsimple-321164724">Automatische Datenspeicherung</h2>
+        <h3 class="adsimple-321164724">Automatische Datenspeicherung</h3>
         <p>
           Wenn Sie heutzutage Webseiten besuchen, werden gewisse Informationen
           automatisch erstellt und gespeichert, so auch auf dieser Webseite.
