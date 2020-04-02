@@ -178,12 +178,12 @@ var Header = function Header(props) {
       lineNumber: 18,
       columnNumber: 9
     }
-  }, "Consulting for Event Storming & ", __jsx("br", {
+  }, "My Passions are Event Storming & ", __jsx("br", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 19,
-      columnNumber: 43
+      columnNumber: 44
     }
   }), __jsx("br", {
     __self: _this,
