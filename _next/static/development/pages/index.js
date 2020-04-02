@@ -106,7 +106,7 @@ function Contact() {
       columnNumber: 7
     }
   }, __jsx("img", {
-    src: "/images/LogoMakr_9xm1vx.png",
+    src: "/beck/images/LogoMakr_9xm1vx.png",
     alt: "",
     __self: this,
     __source: {
@@ -311,7 +311,7 @@ function Imprint() {
       columnNumber: 7
     }
   }, __jsx("img", {
-    src: "/images/pic03.jpg",
+    src: "/beck/images/pic03.jpg",
     alt: "",
     __self: this,
     __source: {
@@ -2184,7 +2184,7 @@ function Intro() {
       columnNumber: 7
     }
   }, __jsx("img", {
-    src: "/images/pic01.jpg",
+    src: "/beck/images/pic01.jpg",
     alt: "",
     __self: this,
     __source: {
@@ -2201,7 +2201,7 @@ function Intro() {
       columnNumber: 7
     }
   }, __jsx("img", {
-    src: "/images/bee.jpg",
+    src: "/beck/images/bee.jpg",
     alt: "",
     __self: this,
     __source: {
@@ -2218,7 +2218,7 @@ function Intro() {
       columnNumber: 7
     }
   }, __jsx("img", {
-    src: "/images/winter.jpg",
+    src: "/beck/images/winter.jpg",
     alt: "",
     __self: this,
     __source: {
@@ -2235,7 +2235,7 @@ function Intro() {
       columnNumber: 7
     }
   }, __jsx("img", {
-    src: "/images/bg2.jpg",
+    src: "/beck/images/bg2.jpg",
     alt: "",
     __self: this,
     __source: {
@@ -2352,7 +2352,7 @@ function Work() {
       columnNumber: 7
     }
   }, __jsx("img", {
-    src: "/images/pic02.jpg",
+    src: "/beck/images/pic02.jpg",
     alt: "",
     __self: this,
     __source: {
