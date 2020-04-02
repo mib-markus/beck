@@ -13,14 +13,15 @@
   "author": "Markus Beck",
   "license": "MIT",
   "dependencies": {
-    "next": "latest",
-    "react": "latest",
-    "react-dom": "latest",
-    "@fortawesome/free-brands-svg-icons": "latest",
     "@fortawesome/fontawesome-svg-core": "latest",
+    "@fortawesome/free-brands-svg-icons": "latest",
     "@fortawesome/react-fontawesome": "latest",
     "@material-ui/core": "latest",
-    "node-sass": "latest"
+    "next": "latest",
+    "next-images": "latest",
+    "node-sass": "latest",
+    "react": "latest",
+    "react-dom": "latest"
   },
   "devDependencies": {
     "babel-plugin-transform-define": "latest",

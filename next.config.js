@@ -1,9 +1,7 @@
 const debug = process.env.NODE_ENV !== 'production'
+const withImages = require('next-images')
 
-
-
-
-module.exports = {
+module.exports = withImages({
   assetPrefix: !debug ? '/beck/' : '',
   exportPathMap: function() {
     return {
@@ -11,4 +9,7 @@ module.exports = {
       // "/about": { page: "/about" },
     };
   },
-}
+  webpack(config, options) {
+    return config
+  }
+})
