@@ -16,7 +16,7 @@ const Header = props => (
         <br />
         <br />
         <h4>
-          Consulting for Event Storming & <br />
+          My Passions are Event Storming & <br />
           <br />
           Designing Event Streaming Systems.
           <br />
