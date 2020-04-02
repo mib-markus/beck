@@ -29,7 +29,7 @@ export default function Work() {
       </Link>
       .
       <span className="image main">
-        <img src="/images/pic02.jpg" alt="" />
+        <img src="/beck/images/pic02.jpg" alt="" />
       </span>
       <p>
         <strong>Otagai-ni-rei</strong> - greetings to all practicing
