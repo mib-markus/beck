@@ -40,7 +40,7 @@ export default function Imprint() {
         </a>
       </p>
       <span className="image main">
-        <img src="/static/images/pic03.jpg" alt="" />
+        <img src="/images/pic03.jpg" alt="" />
       </span>
       <p>
         <h2 class="adsimple-321164724">EU-Streitschlichtung</h2>

@@ -1,20 +1,18 @@
 import React from "react";
 import Document, { Head, Main, NextScript } from "next/document";
 import { ServerStyleSheets } from "@material-ui/core/styles";
-import stylesheet from "styles/main.scss";
 
 export default class MyDocument extends Document {
   render() {
     return (
       <html lang="eng">
         <Head>
-          <link rel="shortcut icon" href="/static/favicon.ico" />
+          <link rel="shortcut icon" href="/favicon.ico" />
           <link
             href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,600,600i"
             rel="stylesheet"
           />
           <meta name="theme-color" />
-          <style dangerouslySetInnerHTML={{ __html: stylesheet }} />
         </Head>
         <body>
           <Main />

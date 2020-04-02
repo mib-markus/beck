@@ -21,7 +21,7 @@ export default function Contact() {
         </li>
       </ul>
       <span className="image main">
-        <img src="/static/images/LogoMakr_9xm1vx.png" alt="" />
+        <img src="/images/LogoMakr_9xm1vx.png" alt="" />
         <p className="copyright">
           &copy; mib-markus - {new Date().getFullYear()}.
         </p>

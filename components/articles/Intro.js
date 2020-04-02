@@ -19,16 +19,16 @@ export default function Intro() {
       </p>
       By the way, check out my awesome photos.<p></p>
       <span className="image main">
-        <img src="/static/images/pic01.jpg" alt="" />
+        <img src="/images/pic01.jpg" alt="" />
       </span>
       <span className="image main">
-        <img src="/static/images/bee.jpg" alt="" />
+        <img src="/images/bee.jpg" alt="" />
       </span>
       <span className="image main">
-        <img src="/static/images/winter.jpg" alt="" />
+        <img src="/images/winter.jpg" alt="" />
       </span>
       <span className="image main">
-        <img src="/static/images/bg2.jpg" alt="" />
+        <img src="/images/bg2.jpg" alt="" />
       </span>
     </div>
   );

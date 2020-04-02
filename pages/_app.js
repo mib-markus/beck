@@ -1,8 +1,9 @@
 import React from "react";
 import App from "next/app";
 import Header from "../components/Header";
-import Main from "../components/Main";
+import Main from "../pages/index";
 import Footer from "../components/Footer";
+import stylesheet from "../styles/main.scss";
 import { config } from "@fortawesome/fontawesome-svg-core";
 import "@fortawesome/fontawesome-svg-core/styles.css"; // Import the CSS
 config.autoAddCss = false; // Tell Font Awesome to skip adding the CSS automatically since it's being imported above
@@ -82,6 +83,7 @@ export default class MyApp extends (App, React.Component) {
     return (
       <React.Fragment>
         <title>mib-markus</title>
+        <style dangerouslySetInnerHTML={{ __html: stylesheet }} />
         <Component {...pageProps} />
         <div
         className={`body ${this.state.loading} ${
