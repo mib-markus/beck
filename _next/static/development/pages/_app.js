@@ -126,7 +126,7 @@ var Header = function Header(props) {
     }
   }, __jsx("img", {
     className: "logo",
-    src: "../images/LogoMakr_9xm1vx.png",
+    src: "/beck/images/LogoMakr_9xm1vx.png",
     alt: "",
     __self: _this,
     __source: {
