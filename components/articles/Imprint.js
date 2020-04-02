@@ -139,7 +139,7 @@ export default function Imprint() {
         <ul class="adsimple-321164724">
           <li class="adsimple-321164724">Fotograf Markus Beck</li>
         </ul>
-        <h1 class="adsimple-321164724">Datenschutzerklärung</h1>
+        <h2 class="adsimple-321164724">Datenschutzerklärung</h2>
         <p>
           Datenschutzbeauftragter : Markus Beck
           <br />
@@ -427,9 +427,9 @@ export default function Imprint() {
           diesen Einwilligung jederzeit widerrufen &#8211; eine formlose E-Mail
           reicht aus, Sie finden unsere Kontaktdaten im Impressum.
         </p>
-        <h2 class="adsimple-321164724">
+        <h3 class="adsimple-321164724">
           Rechte laut Datenschutzgrundverordnung
-        </h2>
+        </h3>
         <p>
           Ihnen stehen laut den Bestimmungen der DSGVO grundsätzlich die
           folgende Rechte zu:
@@ -508,7 +508,7 @@ export default function Imprint() {
           Schloßsymbol links oben im Browser und der Verwendung des Schemas
           https (anstatt http) als Teil unserer Internetadresse.
         </p>
-        <h2 class="adsimple-321164724">Google Fonts Datenschutzerklärung</h2>
+        <h3 class="adsimple-321164724">Google Fonts Datenschutzerklärung</h3>
         <p>
           Wir verwenden Google Fonts der Firma Google Inc. (1600 Amphitheatre
           Parkway Mountain View, CA 94043, USA) auf unserer Webseite.
@@ -717,9 +717,9 @@ export default function Imprint() {
           können jedoch nicht ausschließen, dass diese Daten beim Vorliegen von
           rechtswidrigem Verhalten eingesehen werden.
         </p>
-        <h2 class="adsimple-321164724">
+        <h3 class="adsimple-321164724">
           Google reCAPTCHA Datenschutzerklärung
-        </h2>
+        </h3>
         <p>
           Unser oberstes Ziel ist es, dass unsere Webseite für Sie und für uns
           bestmöglich geschützt und sicher ist. Um das zu gewährleisten,
